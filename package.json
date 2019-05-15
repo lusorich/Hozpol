@@ -1,0 +1,15 @@
+{
+  "name": "Hozpol",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Проект для хозрасчетной поликлиники г.Уфы",
+  "devDependencies": {
+    "autoprefixer": "^9.5.1",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "stylelint": "^10.0.1"
+  }
+}
