@@ -5,13 +5,13 @@
   @include montsReg;
   @include fontStyle(16px,16px);
   margin: 0;
-  padding: 0 40px 60px 40px;
+  padding: 0 40px 40px 40px;
   text-align: center;
 }
 
 .stock-card__icon-wrapper {
   text-align: center;
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 .stock-card__link {
