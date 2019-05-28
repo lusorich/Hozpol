@@ -6,6 +6,11 @@
   position: relative;
   display: inline-block;
   background-color: #ffffff;
+  text-align: start;
+
+  @media (max-width: 350px) {
+    text-align: center;
+  }
 
   &::after {
     content: "";
@@ -26,6 +31,7 @@
   @include fontStyle(16px, 16px);
   margin: 20px 0 0 0;
   padding: 0 20px;
+  text-align: center;
 }
 
 .directions__list {
@@ -37,4 +43,20 @@
 .directions__item {
   padding: 0 20px;
   margin-top: 50px;
+}
+
+.directions__link-more-desc {
+  @include montsReg;
+  @include fontStyle(16px, 16px);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #0078b3;
+  border-bottom: 1px solid #0078b3;
+  display: inline-block;
+}
+
+.directions__link-more-wrapper {
+  text-align: center;
+  margin-top: 20px;
 }
