@@ -1,0 +1,10 @@
+.news-card__title {
+  @include montsReg;
+  @include fontStyle(22px, 22px);
+  margin: 0;
+  text-align: center;
+}
+
+.news-card__img-wrapper {
+  text-align: center;
+}

@@ -1,0 +1,27 @@
+.contacts__iframe-wrapper {
+  width: 100%;
+  height: 400px;
+}
+
+.contacts__title {
+  @include montsSemi;
+  @include fontStyle(30px, 32px);
+  padding: 0 20px;
+  margin: 0;
+  background-color: #ffffff;
+  display: inline-block;
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 100vw;
+    left: 0;
+    height: 3px;
+    margin-top: 2px;
+    background: #69caf7;
+    z-index: -1;
+  }
+}
