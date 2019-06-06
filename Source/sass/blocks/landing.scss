@@ -8,18 +8,32 @@
   text-align: center;
   padding-bottom: 100px;
   padding-top: 100px;
+
+  @media (min-width: $tablet-width) {
+    background-image: url("../img/background-tablet.jpg");
+    margin-top: 40px;
+    padding: 200px 0;
+  }
 }
 
 .landing__title {
   @include montsSemi;
-  @include fontStyle(20px,20px)
+  @include fontStyle(20px, 20px)
   margin: 0;
   padding: 0 20px 30px;
+
+  @media (min-width: $tablet-width) {
+    @include fontStyle(26px, 26px);
+  }
 }
 
 .landing__slogan {
   @include montsReg;
-  @include fontStyle(16px,16px)
+  @include fontStyle(16px, 16px)
   margin: 0;
   padding: 0 20px;
+
+  @media (min-width: $tablet-width) {
+    @include fontStyle(20px, 20px);
+  }
 }
