@@ -35,6 +35,13 @@
     padding-right: 30px;
     margin-top: 30px;
   }
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(18px, 18px);
+    margin-left: auto;
+    justify-content: space-between;
+    width: 75vw;
+  }
 }
 
 .main-nav__item {
