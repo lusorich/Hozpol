@@ -10,9 +10,23 @@
   padding-top: 100px;
 
   @media (min-width: $tablet-width) {
-    background-image: url("../img/background-tablet.jpg");
-    margin-top: 40px;
-    padding: 200px 0;
+    background-image: none;
+    padding: 140px 0 154px;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      width: 100%;
+      height: 600px;
+      z-index: -1;
+      background-size: cover;
+      background-image: url("../img/background-tablet.jpg");
+    }
+  }
+
+  @media (min-width: 811px) {
+    padding: 140px 0 180px;
   }
 }
 
@@ -24,6 +38,11 @@
 
   @media (min-width: $tablet-width) {
     @include fontStyle(26px, 26px);
+    padding: 0 70px 30px;
+  }
+
+  @media (min-width: $desktop-width) {
+    padding: 0 110px 30px;
   }
 }
 

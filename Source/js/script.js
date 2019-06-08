@@ -1,5 +1,6 @@
-  var navMain = document.querySelector('.main-nav');
-  var navToggle = document.querySelector('.main-nav__toggle');
+  let navMain = document.querySelector('.main-nav');
+  let navToggle = document.querySelector('.main-nav__toggle');
+  let header = document.querySelector('.page-header');
 
   navMain.classList.remove('main-nav--nojs');
 
@@ -12,3 +13,11 @@
       navMain.classList.remove('main-nav--opened');
     }
   });
+
+  window.onscroll = function() {
+    if (window.pageYOffset > 100) {
+      header.classList.add('page-header--white');
+    } else {
+      header.classList.remove('page-header--white');
+    }
+  }

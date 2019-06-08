@@ -25,5 +25,8 @@
   "scripts": {
     "build": "gulp css",
     "start": "gulp start"
+  },
+  "dependencies": {
+    "npm": "^6.9.0"
   }
 }

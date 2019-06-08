@@ -16,6 +16,11 @@
     min-width: 170px;
     padding: 27px 20px 0 30px;
   }
+
+  @media (min-width: $desktop-width) {
+    padding-left: 110px;
+    padding-right: 50px;
+  }
 }
 
 .main-nav__list {
@@ -41,6 +46,7 @@
     margin-left: auto;
     justify-content: space-between;
     width: 75vw;
+    padding-right: 110px;
   }
 }
 
