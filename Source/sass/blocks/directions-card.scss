@@ -1,6 +1,11 @@
 .directions-card {
   border: 1px solid #f2f2f2;
   padding: 20px 0;
+
+  @media (min-width: $tablet-width) {
+    height: 270px;
+    box-sizing: border-box;
+  }
 }
 
 .directions-card__title {

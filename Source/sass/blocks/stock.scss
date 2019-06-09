@@ -21,6 +21,8 @@
   }
 
   @media (min-width: $tablet-width) {
+    margin-top: 30px;
+
     &::before {
       content: "";
       position: absolute;

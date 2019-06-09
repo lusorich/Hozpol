@@ -47,28 +47,54 @@
   margin: 20px 0 0 0;
   padding: 0 20px;
   text-align: center;
+
+  @media (min-width: $tablet-width) {
+    padding: 0 30px;
+  }
 }
 
 .directions__list {
   margin: 0;
   padding: 0;
   list-style: none;
+
+  @media (min-width: $tablet-width) {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 .directions__item {
   padding: 0 20px;
   margin-top: 50px;
+
+  @media (min-width: $tablet-width) {
+    padding: 0 30px;
+  }
+}
+
+.directions__link {
+  @media (min-width: $tablet-width) {
+    width: 50%;
+  }
+}
+
+.directions__link-more {
+  cursor: pointer;
 }
 
 .directions__link-more-desc {
   @include montsReg;
-  @include fontStyle(16px, 16px);
+  @include fontStyle(16px, 16px, #0078b3);
   margin: 0;
   padding: 0;
   text-align: center;
-  color: #0078b3;
   border-bottom: 1px solid #0078b3;
   display: inline-block;
+
+  @media (min-width: $tablet-width) {
+    @include fontStyle(22px, 22px, #0078b3);
+  }
 }
 
 .directions__link-more-wrapper {
