@@ -82,6 +82,7 @@
 .contacts__mail {
   padding: 0 20px;
   text-align: center;
+  width: 100%;
 
   @media (min-width: $tablet-width) {
     padding: 0 30px;
@@ -94,6 +95,7 @@
 .contacts__schedule {
   padding: 0 20px;
   text-align: center;
+  width: 100%;
 
   @media (min-width: $tablet-width) {
     padding: 0 30px;
