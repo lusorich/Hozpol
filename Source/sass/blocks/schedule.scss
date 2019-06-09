@@ -1,0 +1,11 @@
+.schedule__title {
+  @include montsSemi;
+  @include fontStyle(20px, 20px);
+  margin: 20px 0;
+}
+
+.schedule__desc {
+  @include montsReg;
+  @include fontStyle(16px, 16px);
+  margin: 20px 0;
+}

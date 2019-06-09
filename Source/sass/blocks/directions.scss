@@ -50,6 +50,7 @@
 
   @media (min-width: $tablet-width) {
     padding: 0 30px;
+    margin-top: 50px;
   }
 }
 
@@ -100,4 +101,8 @@
 .directions__link-more-wrapper {
   text-align: center;
   margin-top: 40px;
+
+  @media (min-width: $tablet-width) {
+    margin-top: 50px;
+  }
 }
