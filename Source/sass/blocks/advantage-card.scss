@@ -9,6 +9,11 @@
     box-sizing: border-box;
     flex-grow: 1;
   }
+
+  @media (min-width: $desktop-width) {
+    width: 40%;
+    flex-grow: 0;
+  }
 }
 
 .advantage-card__title {

@@ -58,6 +58,10 @@
     display: flex;
     width: 100%;
   }
+
+  @media (min-width: $desktop-width) {
+    padding: 0 12.5%;
+  }
 }
 
 .advantage__img {
@@ -65,5 +69,11 @@
 
   @media (min-width: $tablet-width) {
     display: block;
+  }
+}
+
+.advantage__img img {
+  @media (min-width: $desktop-width) {
+    width: 696px;
   }
 }

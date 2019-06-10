@@ -59,4 +59,10 @@
     margin: 0 30px 20px;
     width: 40%;
   }
+
+  @media (min-width: $desktop-width) {
+    box-sizing: border-box;
+    width: 25%;
+    margin: 0;
+  }
 }
