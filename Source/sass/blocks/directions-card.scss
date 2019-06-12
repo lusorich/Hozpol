@@ -6,6 +6,14 @@
     height: 270px;
     box-sizing: border-box;
   }
+
+  @media (min-width: $desktop-width) {
+    height: 340px;
+  }
+
+  &:hover {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.15);
+  }
 }
 
 .directions-card__title {
@@ -14,6 +22,10 @@
   margin: 0;
   padding: 20px 0 0 0;
   text-align: center;
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(24px, 24px);
+  }
 }
 
 .directions-card__desc {
@@ -22,8 +34,16 @@
   margin: 0;
   padding: 20px 20px 0;
   text-align: center;
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(17px, 20px);
+  }
 }
 
 .directions-card__icon-wrapper {
   text-align: center;
+
+  @media (min-width: $desktop-width) {
+    min-width: 50px;
+  }
 }

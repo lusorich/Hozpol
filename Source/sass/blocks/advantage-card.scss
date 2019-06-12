@@ -12,7 +12,19 @@
 
   @media (min-width: $desktop-width) {
     width: 40%;
+    display: flex;
     flex-grow: 0;
+    justify-content: center;
+    flex-direction: column;
+    border: 0;
+    box-sizing: border-box;
+  }
+}
+
+.advantage-card__wrapper {
+  @media (min-width: $desktop-width) {
+    display: flex;
+    padding-left: 40px;
   }
 }
 
@@ -22,6 +34,11 @@
   margin: 0;
   padding: 20px 0 0 0;
   text-align: center;
+
+  @media (min-width: $desktop-width) {
+    padding: 0 20px;
+    text-align: start;
+  }
 }
 
 .advantage-card__desc {
@@ -30,19 +47,35 @@
   margin: 0;
   padding: 20px 40px 40px;
   text-align: center;
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(17px, 18px);
+    text-align: start;
+    padding-right: 160px;
+  }
 }
 
 .advantage-card__icon-wrapper {
   text-align: center;
+
+  @media (min-width: $desktop-width) {
+    min-width: 50px;
+  }
 }
 
 .advantage-card__link {
   @include montsReg;
   @include fontStyle(16px,16px);
+  cursor: pointer;
   color: #0078B3;
   border-bottom: 1px solid #0078B3;
 }
 
 .advantage-card__link-wrapper {
   text-align: center;
+
+  @media (min-width: $desktop-width) {
+    text-align: start;
+    padding: 0 40px;
+  }
 }

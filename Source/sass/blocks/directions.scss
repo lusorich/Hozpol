@@ -39,6 +39,10 @@
       z-index: -1;
     }
   }
+
+  @media (min-width: $desktop-width) {
+    margin-top: 70px;
+  }
 }
 
 .directions__desc {
@@ -52,6 +56,11 @@
     padding: 0 30px;
     margin-top: 50px;
   }
+
+  @media (min-width: $desktop-width) {
+    font-size: 18px;
+    padding: 0 162px;
+  }
 }
 
 .directions__list {
@@ -62,6 +71,10 @@
   @media (min-width: $tablet-width) {
     display: flex;
     flex-wrap: wrap;
+  }
+
+  @media (min-width: $desktop-width) {
+    padding: 0 132px;
   }
 }
 
@@ -77,6 +90,11 @@
 .directions__link {
   @media (min-width: $tablet-width) {
     width: 50%;
+  }
+
+  @media (min-width: $desktop-width) {
+    width: 33%;
+    box-sizing: border-box;
   }
 }
 
