@@ -28,5 +28,6 @@
   cursor: pointer;
   @media (min-width: $tablet-width) {
     box-shadow: 0 2px 5px 0 rgba(0,0,0,.15);
+    transition: 0.5s;
   }
 }
