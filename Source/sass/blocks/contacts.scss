@@ -2,6 +2,11 @@
   width: 100%;
   height: 400px;
   margin-top: 30px;
+
+  @media (min-width: $desktop-width) {
+    height: 600px;
+    margin-top: 50px;
+  }
 }
 
 .contacts__title {
@@ -53,6 +58,10 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+
+  @media (min-width: $desktop-width) {
+    padding: 0 40px;
+  }
 }
 
 .contacts__address {
@@ -65,6 +74,10 @@
     text-align: start;
     box-sizing: border-box;
   }
+
+  @media (min-width: $desktop-width) {
+    width: 25%;
+  }
 }
 
 .contacts__phone {
@@ -76,6 +89,10 @@
     width: 30%;
     text-align: start;
     box-sizing: border-box;
+  }
+
+  @media (min-width: $desktop-width) {
+    width: 25%;
   }
 }
 
@@ -90,6 +107,10 @@
     text-align: start;
     box-sizing: border-box;
   }
+
+  @media (min-width: $desktop-width) {
+    width: 25%;
+  }
 }
 
 .contacts__schedule {
@@ -103,10 +124,19 @@
     text-align: start;
     box-sizing: border-box;
   }
+
+  @media (min-width: $desktop-width) {
+    width: 25%;
+  }
 }
 
 .contacts__social {
   padding: 0 20px;
   margin-top: 30px;
+  margin-bottom: 10px;
   display: flex;
+
+  @media (min-width: $tablet-width) {
+    padding: 0 30px;
+  }
 }

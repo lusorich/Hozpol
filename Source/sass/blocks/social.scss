@@ -1,8 +1,25 @@
 .social__list {
   list-style: none;
   display: flex;
-  justify-content: space-evenly;
   padding: 0;
   margin: 0 auto;
   width: 80%;
+}
+
+.social__item {
+  margin: 0 auto;
+}
+
+.social__icon--vk {
+  @media (min-width: $desktop-width) {
+    width: 42px;
+    height: 32px;
+  }
+}
+
+.social__icon--insta {
+  @media (min-width: $desktop-width) {
+    width: 36px;
+    height: 36px;
+  }
 }
