@@ -65,6 +65,10 @@
       z-index: -1;
     }
   }
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(42px, 42px);
+  }
 }
 
 .news__link {

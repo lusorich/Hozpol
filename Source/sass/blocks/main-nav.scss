@@ -4,6 +4,11 @@
   @media (min-width: $tablet-width) {
     display: flex;
   }
+
+  @media (min-width: $desktop-width) {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
 }
 
 .main-nav__wrapper {
@@ -77,6 +82,10 @@
     &--active {
       border-bottom: 2px solid #69caf7;
     }
+  }
+
+  @media (min-width: $desktop-width) {
+    text-transform: inherit;
   }
 }
 

@@ -31,12 +31,13 @@
 
 .advantage-card__title {
   @include montsReg;
-  @include fontStyle(22px,22px);
+  @include fontStyle(22px, 22px);
   margin: 0;
   padding: 20px 0 0 0;
   text-align: center;
 
   @media (min-width: $desktop-width) {
+    @include fontStyle(26px, 26px);
     padding: 0 20px;
     text-align: start;
   }
@@ -50,9 +51,9 @@
   text-align: center;
 
   @media (min-width: $desktop-width) {
-    @include fontStyle(17px, 18px);
+    @include fontStyle(20px, 20px);
     text-align: start;
-    padding-right: 160px;
+    padding-right: 100px;
   }
 }
 
@@ -66,10 +67,13 @@
 
 .advantage-card__link {
   @include montsReg;
-  @include fontStyle(16px,16px);
+  @include fontStyle(16px, 16px, #0078B3);
   cursor: pointer;
-  color: #0078B3;
   border-bottom: 1px solid #0078B3;
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(22px, 22px, #0078B3)
+  }
 }
 
 .advantage-card__link-wrapper {

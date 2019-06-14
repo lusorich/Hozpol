@@ -36,6 +36,7 @@
   }
 
   @media (min-width: $desktop-width) {
+    @include fontStyle(42px, 42px);
     margin-top: 70px;
   }
 }

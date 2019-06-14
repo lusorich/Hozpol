@@ -4,7 +4,6 @@
   background-size: cover;
   display: flex;
   flex-direction: column;
-  align-items: center;
   text-align: center;
   padding-bottom: 100px;
   padding-top: 100px;
@@ -28,6 +27,23 @@
   @media (min-width: 811px) {
     padding: 140px 0 180px;
   }
+
+  @media (min-width: $desktop-width) {
+    padding-bottom: 206px;
+    text-align: start;
+
+    &::before {
+      background-image: url("../img/background-desktop.jpg");
+      height: 700px;
+      left: 0;
+    }
+  }
+
+  @media (min-width: 1600px) {
+    &::before {
+      background-image: url("../img/background-1600.jpg");
+    }
+  }
 }
 
 .landing__title {
@@ -42,7 +58,8 @@
   }
 
   @media (min-width: $desktop-width) {
-    padding: 0 110px 30px;
+    @include fontStyle(54px, 54px);
+    padding: 0 300px 30px 162px;
   }
 }
 
@@ -54,5 +71,10 @@
 
   @media (min-width: $tablet-width) {
     @include fontStyle(20px, 20px);
+  }
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(30px, 30px);
+    padding: 0 162px;
   }
 }

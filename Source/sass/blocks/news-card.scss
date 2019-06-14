@@ -1,7 +1,7 @@
 .news-card__title {
   @include montsReg;
   @include fontStyle(22px, 22px);
-  margin: 0;
+  margin: 12px 0 0 0;
   text-align: center;
 }
 
