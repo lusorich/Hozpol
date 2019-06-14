@@ -1,4 +1,6 @@
 .link {
+  @include montsReg;
+  @include fontStyle(16px, 18px);
 
   &--landing {
     margin-top: 52px;
