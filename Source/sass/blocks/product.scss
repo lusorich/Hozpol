@@ -3,6 +3,14 @@
   margin: 30px 20px 20px 20px;
 }
 
+.product__code {
+  @include montsReg;
+  color: #919191;
+  position: absolute;
+  top: 12px;
+}
+
+
 .product__title {
   @include montsSemi;
   @include fontStyle(24px, 24px);
@@ -21,22 +29,14 @@
 
 .product__field {
   @include montsReg;
-  @include fontStyle(14px, 14px);
+  @include fontStyle(16px, 16px);
   position: relative;
   padding-top: 40px;
   padding-bottom: 20px;
-  max-width: 205px;
-
-  &::before {
-    content: "В01.001.001";
-    @include montsReg;
-    color: #919191;
-    position: absolute;
-    top: 12px;
-  }
 }
 
 .product__value {
   @include montsReg;
   @include fontStyle(16px, 16px);
+  min-width: 79px;
 }
