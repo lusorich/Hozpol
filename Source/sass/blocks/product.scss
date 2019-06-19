@@ -1,6 +1,11 @@
 .product {
   border-collapse: collapse;
   margin: 30px 20px 20px 20px;
+
+  @media (min-width: $tablet-width) {
+    margin: 30px 30px 20px;
+    width: 95%;
+  }
 }
 
 .product__code {
