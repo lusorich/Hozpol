@@ -47,11 +47,13 @@
   </header>
   <main class="page">
     <div class="container">
-      <h1 class="page__title">Услуги и цены</h1>
+      <div class="wrapper-title">
+        <h1 class="page__title">Услуги и цены</h1>
+      </div>
       <div class="product__wrapper">
       <ul class="product__menu-list">
-        <li class="product__menu-item">Гинекология</li>
-        <li class="product__menu-item">Терапия</li>
+        <li class="product__menu-item"><a href="#gyn-anchor">Гинекология</a></li>
+        <li class="product__menu-item"><a href="#ter-anchor">Терапия</a></li>
         <li class="product__menu-item">Неврология</li>
         <li class="product__menu-item">Урология</li>
         <li class="product__menu-item">Отолорингология</li>
@@ -59,6 +61,7 @@
       <table class="product">
         <tbody>
           <tr>
+            <a id="gyn-anchor"><span class="visually-hidden">Якорь</span></a>
             <th class="product__title" colspan="2">Гинекология</th>
           </tr>
           <tr class="product__line">
