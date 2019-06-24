@@ -3,14 +3,42 @@
   @include fontStyle(22px, 22px);
   margin: 30px 0 30px;
   padding: 0 20px;
+
+  @media (min-width: $tablet-width) {
+    @include fontStyle(24px, 24px);
+    padding: 0 30px 0 197px;
+  }
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(32px, 32px);
+    padding: 0 50px 0 17%;
+  }
 }
 
 .doctors__list {
   list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  flex-direction: column;
+
+  @media (min-width: $tablet-width) {
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 30px 0 170px;
+  }
 }
 
 .doctors__item {
   padding: 0 20px;
+  margin: 20px auto 20px;
+
+  @media (min-width: $tablet-width) {
+    margin: 20px auto 0;
+    width: 230px;
+  }
+
+  @media (min-width: $desktop-width) {
+    width: 250px;
+  }
 }
