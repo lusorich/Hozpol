@@ -24,6 +24,7 @@
   @include montsSemi;
   @include fontStyle(24px, 24px);
   padding-bottom: 20px;
+  padding-top: 20px;
 
   @media (min-width: $desktop-width) {
     @include fontStyle(32px, 32px);
