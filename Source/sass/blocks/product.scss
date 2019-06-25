@@ -130,12 +130,14 @@
     }
 }
 
-
-.menu-list--position {
+.product-list--position {
   position: absolute;
   margin-top: 30%;
 }
 
+.product__menu-list--doctors {
+  position: absolute;
+}
 .product__wrapper {
   @media (min-width: $tablet-width) {
     display: flex
