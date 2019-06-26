@@ -4,6 +4,10 @@
   padding: 0;
   margin: 0 auto;
   width: 80%;
+
+  @media (min-width: $desktop-width) {
+    width: 70%;
+  }
 }
 
 .social__item {

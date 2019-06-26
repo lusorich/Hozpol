@@ -61,6 +61,7 @@
   padding: 20px 0 20px 0;
   text-transform: uppercase;
   border-bottom: 1px solid #e6e6e6;
+  color: #000000;
 
   &--active {
     border-bottom: 2px solid #69caf7;
@@ -86,6 +87,15 @@
 
   @media (min-width: $desktop-width) {
     text-transform: inherit;
+  }
+
+  &:active {
+    color: #69caf7;
+    opacity: .6;
+  }
+
+  &:hover {
+    opacity: .6;
   }
 }
 
@@ -146,13 +156,23 @@
     display: none;
   }
 }
+
 .main-nav__logo {
   display: flex;
   align-items: center;
+
+  &:hover {
+    opacity: .6;
+  }
 }
 
 .main-nav__logo-title {
   @include montsSemi;
   text-transform: lowercase;
   max-width: 120px;
+  color: #000000;
+
+  &:active {
+    color: #69caf7;
+  }
 }
