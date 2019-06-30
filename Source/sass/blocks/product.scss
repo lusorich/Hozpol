@@ -138,6 +138,12 @@
 .product__menu-list--doctors {
   position: absolute;
 }
+
+.product__menu-list--about {
+  position: relative;
+}
+
+
 .product__wrapper {
   @media (min-width: $tablet-width) {
     display: flex
