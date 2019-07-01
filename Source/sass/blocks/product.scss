@@ -64,7 +64,7 @@
 .product__value {
   @include montsReg;
   @include fontStyle(16px, 16px);
-  min-width: 79px;
+  min-width: 85px;
 
   @media (min-width: $desktop-width) {
     @include fontStyle(18px, 18px);
