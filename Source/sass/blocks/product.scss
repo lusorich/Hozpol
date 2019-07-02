@@ -119,6 +119,8 @@
 }
 
 .product__menu-item--active {
+  display: inline-block;
+
   &::before {
     content: "";
     position: absolute;
