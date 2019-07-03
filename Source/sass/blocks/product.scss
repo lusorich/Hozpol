@@ -29,6 +29,7 @@
   @media (min-width: $desktop-width) {
     @include fontStyle(32px, 32px);
     padding-bottom: 50px;
+    padding-top: 50px;
   }
 }
 
@@ -81,7 +82,7 @@
     margin: 0;
     padding: 0;
     position: fixed;
-    top: 40%;
+    top: 25%;
     left: 30px;
   }
 
@@ -118,8 +119,21 @@
   }
 }
 
+.product__menu-item a {
+  color: #000000;
+}
+
+.product__menu-item a:hover {
+  opacity: .6;
+}
+
+.product__menu-item a:active {
+  color: #51c8ff;
+}
+
 .product__menu-item--active {
   display: inline-block;
+  color: #014f73;
 
   &::before {
     content: "";
