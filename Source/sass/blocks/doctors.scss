@@ -3,6 +3,7 @@
   @include fontStyle(22px, 22px);
   margin: 30px 0 30px;
   padding: 0 20px;
+  text-align: center;
 
   @media (min-width: $tablet-width) {
     @include fontStyle(24px, 24px);
@@ -12,6 +13,7 @@
   @media (min-width: $desktop-width) {
     @include fontStyle(32px, 32px);
     padding: 0 50px 0 26%;
+    text-align: unset;
   }
 }
 
