@@ -20,10 +20,13 @@
 
   @media (min-width: $tablet-width) {
     padding: 0 30px;
+    box-sizing: border-box;
+    width: 50%;
   }
 
   @media (min-width: $desktop-width) {
     margin-top: 50px;
+    width: 33%;
   }
 }
 
@@ -68,16 +71,5 @@
 
   @media (min-width: $desktop-width) {
     @include fontStyle(42px, 42px);
-  }
-}
-
-.news__link {
-  @media (min-width: $tablet-width) {
-    box-sizing: border-box;
-    width: 50%;
-  }
-
-  @media (min-width: $desktop-width) {
-    width: 33%;
   }
 }

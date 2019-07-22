@@ -84,13 +84,8 @@
   margin-top: 50px;
 
   @media (min-width: $tablet-width) {
-    padding: 0 30px;
-  }
-}
-
-.directions__link {
-  @media (min-width: $tablet-width) {
     width: 50%;
+    padding: 0 30px;
   }
 
   @media (min-width: $desktop-width) {
