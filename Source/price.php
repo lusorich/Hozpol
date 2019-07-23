@@ -10,34 +10,34 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="index.html">
+          <a class="main-nav__logo" href="index.php">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
             <span class="main-nav__logo-title">Хозрасчетная поликлиника</span>
           </a>
           <button class="main-nav__toggle" type="button">
-            <span class="visually-hidden">Открыть меню</span>
+          <span class="visually-hidden">Открыть меню</span>
           </button>
         </div>
         <ul class="main-nav__list">
           <li>
-            <a class="main-nav__item" href="index.html">Главная</a>
+            <a class="main-nav__item" href="index.php">Главная</a>
           </li>
           <li>
-            <a class="main-nav__item" href="about.html">О нас</a>
+            <a class="main-nav__item" href="about.php">О нас</a>
           </li>
           <li>
             <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item" href="doctors.html">Наши специалисты</a>
+            <a class="main-nav__item" href="doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="">Новости</a>
           </li>
           <li>
-            <a class="main-nav__item" href="schedule.html">График работы</a>
+            <a class="main-nav__item" href="schedule.php">График работы</a>
           </li>
           <li>
             <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
@@ -2119,10 +2119,8 @@
               </tr>
             </tbody>
             <tbody>
-              <tr class="product__line">
               <tr>
                 <th class="product__title" colspan="2">Медицинская справка на право вождения автотранспортом,  маломерными судами</th>
-              </tr>
               </tr>
             </tbody>
             <tbody>
@@ -2180,10 +2178,8 @@
               </tr>
             </tbody>
             <tbody>
-              <tr class="product__line">
               <tr>
                 <th class="product__title" colspan="2">Справка 046-1 на право владения огнестрельным оружием</th>
-              </tr>
               </tr>
             </tbody>
             <tbody>
@@ -2223,10 +2219,8 @@
               </tr>
             </tbody>
             <tbody>
-              <tr class="product__line">
               <tr>
                 <th class="product__title" colspan="2">Справка формы №86/У</th>
-              </tr>
               </tr>
             </tbody>
             <tbody>
@@ -2284,10 +2278,8 @@
               </tr>
             </tbody>
             <tbody>
-              <tr class="product__line">
               <tr>
                 <th class="product__title" colspan="2">Медицинская справка для посещения бассейна</th>
-              </tr>
               </tr>
             </tbody>
             <tbody>
@@ -2321,10 +2313,8 @@
               </tr>
             </tbody>
             <tbody>
-              <tr class="product__line">
               <tr>
                 <th class="product__title" colspan="2">Диспансеризация по приказу №984н, №302н</th>
-              </tr>
               </tr>
             </tbody>
             <tbody>
@@ -2562,7 +2552,6 @@
         </div>
       </div>
     </footer>
-    </main>
+    <script src="js/script.js"></script>
   </body>
-  <script src="js/script.js"></script>
 </html>

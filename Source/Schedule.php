@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Хозрасчетная поликлиника</title>
-    <link rel="stylesheet" href="../css/style.min.css">
+    <link rel="stylesheet" href="css/style.min.css">
   </head>
   <body>
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="../index.html">
+          <a class="main-nav__logo" href="index.php">
             <picture>
-              <img class="main-nav__logo-img" width="50" height="50" src="../img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
+              <img class="main-nav__logo-img" width="50" height="50" src="img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
             <span class="main-nav__logo-title">Хозрасчетная поликлиника</span>
           </a>
@@ -22,22 +22,22 @@
         </div>
         <ul class="main-nav__list">
           <li>
-            <a class="main-nav__item" href="../index.html">Главная</a>
+            <a class="main-nav__item" href="index.php">Главная</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../about.html">О нас</a>
+            <a class="main-nav__item main-nav__item--active" href="about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.html">Услуги и цены</a>
+            <a class="main-nav__item" href="price.php">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="">Новости</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../schedule.html">График работы</a>
+            <a class="main-nav__item" href="#">График работы</a>
           </li>
           <li>
             <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
@@ -47,51 +47,9 @@
     </header>
     <main class="page">
       <div class="container">
-      <div class="wrapper-title wrapper-title--doctors">
-        <h1 class="page__title">Отоларингология</h1>
       </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.html">Все специальности</a></li>
-          <li class="product__menu-item"><a href="gynecology.html">Гинекология</a></li>
-          <li class="product__menu-item"><a href="therapy.html">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.html">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.html">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.html">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.html">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.html">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.html">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.html">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.html">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.html">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.html">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.html">Онкология</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Отоларингология</a></li>
-          <li class="product__menu-item"><a href="ophtalmology.html">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="kdl.html">КДЛ</a></li>
-        </ul>
-    <ul class="doctors__list">
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Шарипов_Ильгам_Рафаилович.jpg" alt="Фото Скорняковой В.Н.">
-              </picture>
-              <h1 class="doctor-card__title">Шарипов Ильгам Рафаэлович</h1>
-              <p class="doctor-card__desc">Врач-отоларинголог (специалист)</p>
-            </article>
-          </li>
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Нуриахметова_Анна_Григорьевна.jpg" alt="Фото Скорняковой В.Н.">
-              </picture>
-              <h1 class="doctor-card__title">Нуриахметова Анна Григорьевна</h1>
-              <p class="doctor-card__desc">Врач-отоларинголог (высшая категория)</p>
-            </article>
-          </li>
-        </ul>
-    </div>
-  </main>
-<footer class="footer">
+    </main>
+    <footer class="footer">
       <div class="contacts">
         <div class="wrapper-title">
           <a id="contacts__anchor"><span class="visually-hidden">Якорь</span></a>
@@ -148,6 +106,6 @@
         </div>
       </div>
     </footer>
-    <script src="../js/scriptHeader.js"></script>
+    <script src="js/scriptHeader.js"></script>
   </body>
 </html>

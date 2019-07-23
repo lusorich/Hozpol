@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="index.html">
+          <a class="main-nav__logo" href="index.php">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -25,19 +25,19 @@
             <a class="main-nav__item main-nav__item--active" href="#">Главная</a>
           </li>
           <li>
-            <a class="main-nav__item" href="about.html">О нас</a>
+            <a class="main-nav__item" href="about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="price.html">Услуги и цены</a>
+            <a class="main-nav__item" href="price.php">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item" href="doctors.html">Наши специалисты</a>
+            <a class="main-nav__item" href="doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="">Новости</a>
           </li>
           <li>
-            <a class="main-nav__item" href="schedule.html">График работы</a>
+            <a class="main-nav__item" href="schedule.php">График работы</a>
           </li>
           <li>
             <a class="main-nav__item" href="#contacts__anchor">Контакты</a>

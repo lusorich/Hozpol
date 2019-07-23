@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="../index.html">
+          <a class="main-nav__logo" href="../index.php">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="../img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -22,13 +22,13 @@
         </div>
         <ul class="main-nav__list">
           <li>
-            <a class="main-nav__item" href="../index.html">Главная</a>
+            <a class="main-nav__item" href="../index.php">Главная</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../about.html">О нас</a>
+            <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.html">Услуги и цены</a>
+            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
           </li>
           <li>
             <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
@@ -37,7 +37,7 @@
             <a class="main-nav__item" href="">Новости</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../schedule.html">График работы</a>
+            <a class="main-nav__item" href="../schedule.php">График работы</a>
           </li>
           <li>
             <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
@@ -47,51 +47,51 @@
     </header>
     <main class="page">
       <div class="container">
-      <div class="wrapper-title wrapper-title--doctors">
-        <h1 class="page__title">Клинико-диагностическая лаборатория</h1>
+        <div class="wrapper-title wrapper-title--doctors">
+          <h1 class="page__title">Дерматовенероология</h1>
+        </div>
+        <ul class="product__menu-list product__menu-list--doctors">
+          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
+          <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
+          <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
+          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
+          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item product__menu-item--active"><a href="#">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="masseurs.php">Массажисты</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
+          <li class="product__menu-item"><a href="otolaryngolo.php">Отолорингология</a></li>
+          <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
+          <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
+        </ul>
+        <ul class="doctors__list">
+          <li class="doctors__item">
+            <article class="doctor-card">
+              <picture>
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Петрова_Елена_Александровна.jpg" alt="Фото врача">
+              </picture>
+              <h1 class="doctor-card__title">Петрова Елена Александровна</h1>
+              <p class="doctor-card__desc">Врач-кардиолог (специалист)</p>
+            </article>
+          </li>
+          <li class="doctors__item">
+            <article class="doctor-card">
+              <picture>
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Поликарпова_Наталья_Александровна.jpg" alt="Фото врача">
+              </picture>
+              <h1 class="doctor-card__title">Поликарпова Наталья Александровна</h1>
+              <p class="doctor-card__desc">Врач-кардиолог (высшая категория)</p>
+            </article>
+          </li>
+        </ul>
       </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.html">Все специальности</a></li>
-          <li class="product__menu-item"><a href="gynecology.html">Гинекология</a></li>
-          <li class="product__menu-item"><a href="therapy.html">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.html">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.html">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.html">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.html">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.html">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.html">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.html">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.html">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.html">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.html">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.html">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngology.html">Отолорингология</a></li>
-          <li class="product__menu-item"><a href="ophtalmology.html">Офтальмология</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">КДЛ</a></li>
-        </ul>
-    <ul class="doctors__list">
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Гареева_Люция_Амировна.jpg" alt="Фото Скорняковой В.Н.">
-              </picture>
-              <h1 class="doctor-card__title">Гареева Люция Амировна</h1>
-              <p class="doctor-card__desc">Врач КДЛ</p>
-            </article>
-          </li>
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Чигвинцева_Нурия_Равмилевна.jpg" alt="Фото Скорняковой В.Н.">
-              </picture>
-              <h1 class="doctor-card__title">Чигвинцева Нурия Рамиловна</h1>
-              <p class="doctor-card__desc">Врач КДЛ</p>
-            </article>
-          </li>
-        </ul>
-    </div>
-  </main>
-<footer class="footer">
+    </main>
+    <footer class="footer">
       <div class="contacts">
         <div class="wrapper-title">
           <a id="contacts__anchor"><span class="visually-hidden">Якорь</span></a>
