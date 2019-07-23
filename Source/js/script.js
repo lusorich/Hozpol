@@ -28,7 +28,7 @@
   }
 
   window.onscroll = function() {
-    if (window.pageYOffset > 100) {
+    if (window.pageYOffset > 50) {
       header.classList.add('page-header--white');
     } else {
       header.classList.remove('page-header--white');
