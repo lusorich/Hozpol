@@ -95,6 +95,10 @@
   }
 }
 
+.product__menu-list--absolute {
+  position: absolute;
+}
+
 .product__menu-item {
   @include montsReg;
   @include fontStyle(16px, 16px);
