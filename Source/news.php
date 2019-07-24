@@ -34,7 +34,7 @@
             <a class="main-nav__item" href="doctors.php">Наши специалисты</a>
           </li>
           <li>
-            <a class="main-nav__item" href="news.php">Новости</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Новости</a>
           </li>
           <li>
             <a class="main-nav__item" href="schedule.php">График работы</a>
@@ -47,7 +47,43 @@
     </header>
     <main class="page">
       <div class="container">
-        <h1 class="doctors__title">Данной страницы не существует!</h1>
+        <section class="news">
+          <div class="wrapper-title">
+            <h2 class="news__title">Новости</h2>
+          </div>
+          <ul class="news__list">
+            <li class="news__item">
+              <a class="news__link">
+                <article class="news-card">
+                  <div class="news-card__img-wrapper">
+                    <img class="news-card__img" width="300" height="300" src="img/newYear.png" alt="Ёлка">
+                  </div>
+                  <h3 class="news-card__title">График работы на новогодние праздники</h3>
+                </article>
+              </a>
+            </li>
+            <li class="news__item">
+              <a class="news__link">
+                <article class="news-card">
+                  <div class="news-card__img-wrapper">
+                    <img class="news-card__img" width="300" height="300" src="img/AIDS.png" alt="Остановим СПИД">
+                  </div>
+                  <h3 class="news-card__title">Всемирный день борьбы со СПИДом</h3>
+                </article>
+              </a>
+            </li>
+            <li class="news__item">
+              <a class="news__link">
+                <article class="news-card">
+                  <div class="news-card__img-wrapper">
+                    <img class="news-card__img" width="300" height="300" src="img/Tablets.png" alt="Антибиотики">
+                  </div>
+                  <h3 class="news-card__title">Антибиотики - миф или правда?</h3>
+                </article>
+              </a>
+            </li>
+          </ul>
+        </section>
       </div>
     </main>
     <footer class="footer">

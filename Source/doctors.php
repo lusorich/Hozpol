@@ -34,7 +34,7 @@
             <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
           </li>
           <li>
-            <a class="main-nav__item" href="">Новости</a>
+            <a class="main-nav__item" href="news.php">Новости</a>
           </li>
           <li>
             <a class="main-nav__item" href="schedule.php">График работы</a>

@@ -34,7 +34,7 @@
             <a class="main-nav__item" href="doctors.php">Наши специалисты</a>
           </li>
           <li>
-            <a class="main-nav__item" href="">Новости</a>
+            <a class="main-nav__item" href="news.php">Новости</a>
           </li>
           <li>
             <a class="main-nav__item" href="schedule.php">График работы</a>
@@ -50,7 +50,7 @@
         <section class="landing">
           <h1 class="landing__title">Приходи в хозрасчетную поликлинику уже сегодня!</h1>
           <p class="landing__slogan">Лучшая в городе поликлиника</p>
-          <a class="link link--landing" href="">График работы</a>
+          <a class="link link--landing" href="schedule.php">График работы</a>
         </section>
         <section class="stock">
           <div class="wrapper-title">
@@ -174,7 +174,7 @@
           <p class="directions__desc">Сейчас в штате хозрасчетной поликлиники свыше 40 врачей. В ней работают терапевт, кардиолог, специалисты УЗИ, дерматовенеролог, невролог, хирург и прочие специалисты. У нас вы получите качественное и эффективное медицинское обслуживание за приемлиемую плату!</p>
           <ul class="directions__list">
             <li class="directions__item">
-              <a class="directions__link" href="#">
+              <a class="directions__link" href="price.php">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-blood-pressure.svg" alt="Иконка">
@@ -185,7 +185,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="#">
+              <a class="directions__link" href="price.php">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-gynecology.svg" alt="Иконка">
@@ -196,7 +196,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="#">
+              <a class="directions__link" href="price.php">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-medical-tools.svg" alt="Иконка">
@@ -207,7 +207,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="#">
+              <a class="directions__link" href="price.php">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-lungs.svg" alt="Иконка">
@@ -218,7 +218,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="#">
+              <a class="directions__link" href="price.php">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-cardiogram.svg" alt="Иконка">
@@ -229,7 +229,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="#">
+              <a class="directions__link" href="price.php">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-ophtalmology.svg" alt="Иконка">
@@ -241,7 +241,7 @@
             </li>
           </ul>
           <div class="directions__link-more-wrapper">
-            <a class="directions__link-more">
+            <a class="directions__link-more" href="doctors.php">
               <p class="directions__link-more-desc">Посмотреть больше направлений</p>
             </a>
           </div>
