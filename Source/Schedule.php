@@ -25,7 +25,7 @@
             <a class="main-nav__item" href="index.php">Главная</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="about.php">О нас</a>
+            <a class="main-nav__item" href="about.php">О нас</a>
           </li>
           <li>
             <a class="main-nav__item" href="price.php">Услуги и цены</a>
@@ -37,7 +37,7 @@
             <a class="main-nav__item" href="news.php">Новости</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#">График работы</a>
+            <a class="main-nav__item main-nav__item--active" href="#">График работы</a>
           </li>
           <li>
             <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
@@ -47,6 +47,10 @@
     </header>
     <main class="page">
       <div class="container">
+      	<div class="wrapper-title">
+          <h1 class="page__title">График работы</h1>
+        </div>
+      	<iframe class="schedule__doc" src="schedule.pdf" width="300" height="400" frameborder="0"></iframe>
       </div>
     </main>
     <footer class="footer">
