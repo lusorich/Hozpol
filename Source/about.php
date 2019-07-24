@@ -97,7 +97,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/Ахметзянова_Лариса_Робертовна.png" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/Ахметзянова_Лариса_Робертовна.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Ахметзянова Лариса Робертовна</h1>
               <p class="doctor-card__desc">Начальник отдела кадров</p>
