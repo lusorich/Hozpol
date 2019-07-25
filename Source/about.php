@@ -61,7 +61,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/Юлдашев_Салават_Марсович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/yuldaschev.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Юлдашев Салават Марсович</h1>
               <p class="doctor-card__desc">Главный врач</p>
@@ -70,7 +70,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/Гилязева_Фаниля_Ибрагимовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/gilyazeva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Гилязева Фаниля Ибрагимовна</h1>
               <p class="doctor-card__desc">Зам.главного врача по медицинской части</p>
@@ -79,7 +79,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/Шилова_Юлия_Имильевна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/schilova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Шилова Юлия Имильевна</h1>
               <p class="doctor-card__desc">Главный бухгалтер</p>
@@ -88,7 +88,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/Шархмуллина_Филария_Наиловна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/scharhmullina.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Шархмуллина Филария Наиловна</h1>
               <p class="doctor-card__desc">Главная медсестра</p>
@@ -97,7 +97,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/Ахметзянова_Лариса_Робертовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/ahmetzyanova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Ахметзянова Лариса Робертовна</h1>
               <p class="doctor-card__desc">Начальник отдела кадров</p>
@@ -106,7 +106,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/Зайнуллин_Венер_Узбекович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/zainullin.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Зайнуллин Венер Узбекович</h1>
               <p class="doctor-card__desc">Начальник отдела по хозяйственной части</p>
