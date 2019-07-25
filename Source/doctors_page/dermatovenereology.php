@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Петрова_Елена_Александровна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/petrova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Петрова Елена Александровна</h1>
               <p class="doctor-card__desc">Врач-кардиолог (специалист)</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Поликарпова_Наталья_Александровна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/polikarpova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Поликарпова Наталья Александровна</h1>
               <p class="doctor-card__desc">Врач-кардиолог (высшая категория)</p>

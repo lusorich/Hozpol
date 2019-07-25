@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Мугаллимов_Ильгиз_Альфисович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/mugallimov.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Мугаллимов Ильгиз Альфисович</h1>
               <p class="doctor-card__desc">Массажист</p>

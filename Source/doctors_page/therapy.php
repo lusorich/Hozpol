@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Скорнякова_Вера_Николаевна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/skornyakova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Скорнякова Вера Николаевна</h1>
               <p class="doctor-card__desc">Врач-терапевт (высшая категория)</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Хамидуллина_Альфия_Разифовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/hamidullina.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Хамидуллина Альфия Разифовна</h1>
               <p class="doctor-card__desc">Врач-терапевт (специалист)</p>
@@ -91,7 +91,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Нагаева_Лена_Валерьевна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/nagaeva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Нагаева Лена Валериевна</h1>
               <p class="doctor-card__desc">Врач-терапевт (высшая категория)</p>

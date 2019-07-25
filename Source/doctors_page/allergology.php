@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Шамуратова_Гульнара_Фидусовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/schamuratova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Шамуратова Гульнара Фидусовна</h1>
               <p class="doctor-card__desc">Врач-аллерголог-иммунолог (1я категория)</p>

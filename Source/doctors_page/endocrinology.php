@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Галиева_Аделя_Файзирахмановна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/galieva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Галиева Аделя Файзирахмановна</h1>
               <p class="doctor-card__desc">Врач-эндокринолог (заслуженный врач РБ)</p>
@@ -82,9 +82,9 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Исхакова_Эльмира_Фаритовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/ishakova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Хабудтинова Зульфия Рашитовна</h1>
+              <h1 class="doctor-card__title">Исхакова Эльмира Фаритовна</h1>
               <p class="doctor-card__desc">Врач-эндокринолог (специалист)</p>
             </article>
           </li>

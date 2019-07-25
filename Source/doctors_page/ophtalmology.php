@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Агзамов_Вадим_Танзелгаянович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/agzamov.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Агзамов Вадим Танзелгаянович</h1>
               <p class="doctor-card__desc">Врач-офтальмолог (специалист)</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Житаева_Хава_Абдулхамидовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/zhitaeva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Житаева Хава Абдулхамидовна</h1>
               <p class="doctor-card__desc">Врач-офтальмолог (специалист)</p>

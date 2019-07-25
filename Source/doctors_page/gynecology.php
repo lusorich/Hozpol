@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Кортунова_Вероника_Владимировна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/kortunova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Кортунова Вероника Владимировна</h1>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (высшая категория)</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Саблина_Наталья_Ивановна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sablina.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Саблина Наталья Ивановна</h1>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (высшая категория)</p>
@@ -91,7 +91,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Гарипова_Гульназ_Юлаевна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/garipova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Гарипова Гульназ Юлаевна</h1>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (высшая категория)</p>
@@ -100,7 +100,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Нагаева_Лена_Валерьевна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/nagaeva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Калимова Лариса Валерьевна</h1>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (специалист)</p>

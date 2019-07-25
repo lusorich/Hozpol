@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Иванова_Наталья_Витальевна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/ivanova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Иванова Наталья Витальевна</h1>
               <p class="doctor-card__desc">Врач УЗД</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Тюменева_Оксана_Ринатовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/tumeneva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Тюменева Оксана Ринатовна</h1>
               <p class="doctor-card__desc">Врач УЗД</p>
@@ -91,7 +91,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Дарминова_Алия_Нуримановна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/darminova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Дарминова Алия Нуримановна</h1>
               <p class="doctor-card__desc">Врач УЗД</p>

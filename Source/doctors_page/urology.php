@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Юлдашев_Салават_Марсович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/yuldaschev.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Юлдашев Салават Марсович</h1>
               <p class="doctor-card__desc">Врач-уролог (высшая категория)</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Шарипов_Ильяс_Маратович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/scharipovI.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Шарипов Ильяс Маратович</h1>
               <p class="doctor-card__desc">Врач-уролог (специалист)</p>

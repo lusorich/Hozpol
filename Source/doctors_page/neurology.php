@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Фаткуллин_Алик_Хасанович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/fatkullin.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Фаткуллин Алик Хасанович</h1>
               <p class="doctor-card__desc">Врач-невролог (заслуженный врач РБ)</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Хабутдинова_Зульфия_Рашитовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/habutdinova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Хабудтинова Зульфия Рашитовна</h1>
               <p class="doctor-card__desc">Врач-невролог (1 категория)</p>

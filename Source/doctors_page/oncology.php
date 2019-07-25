@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Фатхуллин_Азамат_Салаватович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/fathullin.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Фатхуллин Азамат Салаватович</h1>
               <p class="doctor-card__desc">Врач-онколог-маммолог (высшая категория)</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Иванов_Дмитрий_Евгеньевич.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/ivanov.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Иванов Дмитрий Евгеньевич</h1>
               <p class="doctor-card__desc">Врач-онколог-маммолог (2 категория)</p>

@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Шарипов_Ильгам_Рафаилович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/scharipov.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Шарипов Ильгам Рафаэлович</h1>
               <p class="doctor-card__desc">Врач-отоларинголог (специалист)</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Нуриахметова_Анна_Григорьевна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/nuriahmetova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Нуриахметова Анна Григорьевна</h1>
               <p class="doctor-card__desc">Врач-отоларинголог (высшая категория)</p>

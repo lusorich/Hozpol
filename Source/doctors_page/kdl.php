@@ -73,7 +73,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Гареева_Люция_Амировна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/gareeva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Гареева Люция Амировна</h1>
               <p class="doctor-card__desc">Врач КДЛ</p>
@@ -82,7 +82,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/Чигвинцева_Нурия_Равмилевна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/chigvinceva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Чигвинцева Нурия Рамиловна</h1>
               <p class="doctor-card__desc">Врач КДЛ</p>
