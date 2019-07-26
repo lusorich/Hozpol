@@ -110,7 +110,7 @@
                 </div>
                 <p class="advantage-card__desc">В хозрасчетной поликлинике работают более 20 специалистов высшей категории</p>
                 <div class="advantage-card__link-wrapper">
-                  <a class="advantage-card__link">Наши специалисты</a>
+                  <a class="advantage-card__link" href="doctors.php">Наши специалисты</a>
                 </div>
               </article>
             </li>
@@ -124,7 +124,7 @@
                 </div>
                 <p class="advantage-card__desc">Прием ведется как по записи, так и по живой очереди.</p>
                 <div class="advantage-card__link-wrapper">
-                  <a class="advantage-card__link">График работы</a>
+                  <a class="advantage-card__link" href="schedule.php">График работы</a>
                 </div>
               </article>
               <div class="advantage__img">
@@ -144,7 +144,7 @@
                 </div>
                 <p class="advantage-card__desc">У нас вы получите помощь и консультацию из различных областей медицинских услуг</p>
                 <div class="advantage-card__link-wrapper">
-                  <a class="advantage-card__link">О нас</a>
+                  <a class="advantage-card__link" href="about.php">О нас</a>
                 </div>
               </article>
             </li>
@@ -158,7 +158,7 @@
                 </div>
                 <p class="advantage-card__desc">Исследование различных анализов с точным, быстрым и информативным результатом.</p>
                 <div class="advantage-card__link-wrapper">
-                  <a class="advantage-card__link">Услуги и цены</a>
+                  <a class="advantage-card__link" href="price.php">Услуги и цены</a>
                 </div>
               </article>
               <div class="advantage__img">

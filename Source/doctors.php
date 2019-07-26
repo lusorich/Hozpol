@@ -374,7 +374,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/Давлеткильдеев_Рафаэль_Равильевич.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/davletkildeev.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Давлеткильдеев Рафаэль Равильевич</h1>
               <p class="doctor-card__desc">Врач-травматолог-ортопед (специалист)</p>
@@ -386,7 +386,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/Шамуратова_Гульнара_Фидусовна.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/schamuratova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Шамуратова Гульнара Фидусовна</h1>
               <p class="doctor-card__desc">Врач-аллерголог-иммунолог (1я категория)</p>
@@ -398,7 +398,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/Мугаллимов_Ильгиз_Альфисович.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/mugallimov.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Мугаллимов Ильгиз Альфисович</h1>
               <p class="doctor-card__desc">Массажист</p>
