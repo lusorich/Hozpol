@@ -65,7 +65,7 @@
           <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
           <li class="product__menu-item"><a href="urology.php">Урология</a></li>
           <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngology.php">Отолорингология</a></li>
+          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
           <li class="product__menu-item product__menu-item--active"><a href="#">КДЛ</a></li>
         </ul>

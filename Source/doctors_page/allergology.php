@@ -50,7 +50,7 @@
         <div class="wrapper-title wrapper-title--doctors">
           <h1 class="page__title">Аллергология</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors">
+        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
           <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
@@ -65,7 +65,7 @@
           <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
           <li class="product__menu-item"><a href="urology.php">Урология</a></li>
           <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngolo.php">Отолорингология</a></li>
+          <li class="product__menu-item"><a href="otolaryngolo.php">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
           <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
         </ul>

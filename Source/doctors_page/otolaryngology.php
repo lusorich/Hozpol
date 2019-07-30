@@ -48,7 +48,7 @@
     <main class="page">
       <div class="container">
         <div class="wrapper-title wrapper-title--doctors">
-          <h1 class="page__title">Отоларингология</h1>
+          <h1 class="page__title">Оториноларингология</h1>
         </div>
         <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
           <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
@@ -65,7 +65,7 @@
           <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
           <li class="product__menu-item"><a href="urology.php">Урология</a></li>
           <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Отоларингология</a></li>
+          <li class="product__menu-item product__menu-item--active"><a href="#">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
           <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
         </ul>
