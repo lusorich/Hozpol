@@ -70,7 +70,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/gilyazeva.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/gilyazeva.JPG" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Гилязева Фаниля Ибрагимовна</h1>
               <p class="doctor-card__desc">Зам.главного врача по медицинской части</p>
@@ -106,7 +106,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/zainullin.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="img/zainullin.JPG" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Зайнуллин Венер Узбекович</h1>
               <p class="doctor-card__desc">Начальник отдела по хозяйственной части</p>

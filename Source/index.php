@@ -63,7 +63,7 @@
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-medical.svg" alt="Иконка">
                 </div>
-                <a class="stock-card__link">
+                <a class="stock-card__link" href="price.php">
                   <p class="stock-card__desc">Программа "Лабораторный минимум" по сниженной цене</p>
                 </a>
               </article>
@@ -74,7 +74,7 @@
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-medical-report.svg" alt="Иконка">
                 </div>
-                <a class="stock-card__link">
+                <a class="stock-card__link" href="price.php">
                   <p class="stock-card__desc">Скидка 50% на повторный прием</p>
                 </a>
               </article>
@@ -85,7 +85,7 @@
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-examination.svg" alt="Иконка">
                 </div>
-                <a class="stock-card__link">
+                <a class="stock-card__link" href="price.php">
                   <p class="stock-card__desc">Программа "Женское здоровье" по сниженной цене</p>
                 </a>
               </article>
@@ -174,7 +174,7 @@
           <p class="directions__desc">Сейчас в штате хозрасчетной поликлиники свыше 40 врачей. В ней работают терапевт, кардиолог, специалисты УЗИ, дерматовенеролог, невролог, хирург и прочие специалисты. У нас вы получите качественное и эффективное медицинское обслуживание за приемлиемую плату!</p>
           <ul class="directions__list">
             <li class="directions__item">
-              <a class="directions__link" href="price.php">
+              <a class="directions__link" href="doctors.php">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-blood-pressure.svg" alt="Иконка">
