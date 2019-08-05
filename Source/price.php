@@ -62,7 +62,7 @@
             <li class="product__menu-item"><a href="#der-anchor">Дерматовенерология</a></li>
             <li class="product__menu-item"><a href="#end-anchor">Эндокринология</a></li>
             <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
-            <li class="product__menu-item"><a href="#all-anchor">Аллергология и иммунология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/allergology.php">Аллергология и иммунология</a></li>
             <li class="product__menu-item"><a href="#sur-anchor">Хирургия</a></li>
             <li class="product__menu-item"><a href="#onk-anchor">Онкология</a></li>
             <li class="product__menu-item"><a href="#car-anchor">Кардиология</a></li>
@@ -1056,69 +1056,6 @@
             <tbody>
               <tr class="product__line">
                 <td class="product__field"><span class="product__code">В01.008.002</span>Прием (осмотр, консультация) врача-дерматовенеролога   Доктора медицинских наук, повторный</td>
-                <td class="product__value">550-00р.</td>
-              </tr>
-            </tbody>
-            <tbody id="all-anchor">
-              <tr>
-                <th class="product__title" colspan="2">Аллергология и иммунология</th>
-              </tr>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.001</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога специалиста первичный</td>
-                <td class="product__value">750-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.002</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога специалиста повторный</td>
-                <td class="product__value">400-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.001</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога второй категории, первичный</td>
-                <td class="product__value">800-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.002</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога второй категории, повторный</td>
-                <td class="product__value">400-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.001</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога  первой категории ,первичный</td>
-                <td class="product__value">850-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.002</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога первой категории, повторный</td>
-                <td class="product__value">425-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.001</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога высшей категории,, Заслуженного врача, к.м.н.,первичный</td>
-                <td class="product__value">900-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.002</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога  высшей категории, Заслуженного врача, к.м.н.,повторный</td>
-                <td class="product__value">450-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.001</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога Доктора медицинских наук, первичный</td>
-                <td class="product__value">1100-00р.</td>
-              </tr>
-            </tbody>
-            <tbody>
-              <tr class="product__line">
-                <td class="product__field"><span class="product__code">В01.002.002</span>Прием (осмотр, консультация) врача-аллерголога-иммунолога Доктора медицинских наук, повторный</td>
                 <td class="product__value">550-00р.</td>
               </tr>
             </tbody>

@@ -12,6 +12,16 @@
   }
 }
 
+.product--inner {
+  @media (min-width: $tablet-width) {
+    width: unset;
+  }
+
+  @media (min-width: $desktop-width) {
+    width: 70%;
+  }
+}
+
 .product__code {
   @include montsReg;
   color: #919191;
