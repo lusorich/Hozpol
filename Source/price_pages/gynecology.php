@@ -28,10 +28,10 @@
             <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="../doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="../news.php">Новости</a>
@@ -50,24 +50,25 @@
         <div class="wrapper-title wrapper-title--doctors">
           <h1 class="page__title">Гинекология</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Гинекология</a></li>
+        <ul class="product__menu-list product__menu-list--absolute">
+          <li class="product__menu-item product__menu-item"><a href="#">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.php">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
+          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
+          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
+          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>               
         </ul>
         <ul class="doctors__list">
           <li class="doctors__item">
@@ -107,6 +108,308 @@
             </article>
           </li>
         </ul>
+        <table class="product product--inner">
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.001</span>Прием (осмотр, консультация) врача-акушер-гинеколога специалиста первичный</td>
+                <td class="product__value">750-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.002</span>Прием (осмотр, консультация) врача-акушер-гинеколога специалиста повторный</td>
+                <td class="product__value">400-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.001</span>Прием (осмотр, консультация) врача-акушер-гинеколога второй категории первичный</td>
+                <td class="product__value">800-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.002</span>Прием (осмотр, консультация) врача-акушер-гинеколога второй категории повторный</td>
+                <td class="product__value">400-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.001</span>Прием (осмотр, консультация) врача-акушер-гинеколога  первой категории первичный</td>
+                <td class="product__value">850-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.002</span>Прием (осмотр, консультация) врача-акушер-гинеколога  первой категории повторный</td>
+                <td class="product__value">425-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.001</span>Прием (осмотр, консультация) врача-акушер-гинеколога высшей категории Заслуженного врача, к.м.н.,первичный</td>
+                <td class="product__value">900-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.002</span>Прием (осмотр, консультация) врача-акушер-гинеколога высшей категории Заслуженного врача, к.м.н.,повторный</td>
+                <td class="product__value">450-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.001</span>Прием (осмотр, консультация) врача-акушер-гинеколога Доктора медицинских наук, первичный</td>
+                <td class="product__value">1100-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">В01.001.002</span>Прием (осмотр, консультация) врача-акушер-гинеколога Доктора медицинских наук, повторный</td>
+                <td class="product__value">550-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А11.20.014</span>Введение внутриматочной спирали (без ст-ти ВМС)</td>
+                <td class="product__value">700-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А14.20.002</span>Подбор влагалищного поддерживающего кольца (пессария)</td>
+                <td class="product__value">300-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А14.20.002</span>Введение,извлечение влагалищного поддерживающего кольца (пессария) без стоимости кольца (пессария)</td>
+                <td class="product__value">300-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А11.20.015</span>Удаление внутриматочной спирали</td>
+                <td class="product__value">500-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А11.20.015</span>Удаление внутриматочной спирали (повышенной сложности)</td>
+                <td class="product__value">820-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А16.20.059</span>Удаление инородного тела из влагалища</td>
+                <td class="product__value">300-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А11.20.004</span>Влагалищная биопсия</td>
+                <td class="product__value">1100-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А03.20.001</span>Кольпоскопия</td>
+                <td class="product__value">500-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А21.20.001</span>Массаж при заболевании женских половых органов (1 сеанс)</td>
+                <td class="product__value">400-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A08.30.006</span>Взятие на гистологическое исследование препарата удаленного новообразования  (1 ед.)</td>
+                <td class="product__value">80-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А08.20.012</span>Взятие на цитологическое исследование препарата тканей влагалища (1 ед.)</td>
+                <td class="product__value">220-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.01.004</span>Послеоперационная обработка шейки матки, влагалища, вульвы</td>
+                <td class="product__value">250-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А16.20.037</span>Искусственное прерывание беременности (аборт) (до 5 недель) ( включая контр.  ультразвуковое исследование матки и придатков)</td>
+                <td class="product__value">3500-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.030</span>Восстановление вульвы и промежности, восстановление девственной плевы</td>
+                <td class="product__value">5000-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А11.20.011</span>Биопсия шейки матки</td>
+                <td class="product__value">870-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.005.001</span>Расширение шеечного канала</td>
+                <td class="product__value">240-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.084</span>Удаление полипа женских половых органов  (полипэктомия цервикального канала)</td>
+                <td class="product__value">1000-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A06.20.006</span>Гидроэхолокация</td>
+                <td class="product__value">1600-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A11.20.008.002</span>Диагностическое выскабливание  цервикального канала</td>
+                <td class="product__value">1200-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А16.20.037</span>Искусственное прерывание беременности (медикаментозным методом, мифегин и мизопростол)</td>
+                <td class="product__value">7100-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А16.20.037</span>Искусственное прерывание беременности (медикаментозным методом, мифепристон и мизопростол)</td>
+                <td class="product__value">5000-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А03.20.001</span>Кольпоскопия (цветная расширенная видео)</td>
+                <td class="product__value">850-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А16.20.079</span>Вакуум-аспирация эндометрия</td>
+                <td class="product__value">2700-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.036.003</span>Радиоволновая терапия шейки матки (рассечение сенехий половых губ)</td>
+                <td class="product__value">1200-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.036.003</span>Радиоволновая терапия шейки матки (повторно)</td>
+                <td class="product__value">1300-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.036.003</span>Радиоволновая терапия шейки матки (эксцизия шейки матки до 1 см)</td>
+                <td class="product__value">3000-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.036.003</span>Радиоволновая терапия шейки матки (эксцизия  шейки матки до 2 см)</td>
+                <td class="product__value">3500-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.036.003</span>Радиоволновая терапия шейки матки (конизация  шейки матки)</td>
+                <td class="product__value">4000-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.036.003</span>Радиоволновая терапия ( деструкция  единичных кондилом наружных половых рганов)</td>
+                <td class="product__value">2500-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A22.01.003</span>Радиоволновая терапия  (деструкция  множественных кондилом наружных половых органов)</td>
+                <td class="product__value">3000-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A22.01.003</span>Радиоволновая терапия (деструкция множественных кондилом наружных половых органов,промежности,ануса)</td>
+                <td class="product__value">3500-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A11.20.005</span>Получение влагалищного мазка, цервикального мазка (1 ед.)</td>
+                <td class="product__value">200-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.079</span>Вакуум-аспирация эндометрия (пайпель)</td>
+                <td class="product__value">900-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.079</span>Вакуум-аспирация (Ramcuretta)</td>
+                <td class="product__value">2600-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A16.20.092</span>Удаление остатков плодного яйца</td>
+                <td class="product__value">1000-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">B03.001.001</span>Постановка теста на беременность</td>
+                <td class="product__value">300-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">A11.20.013</span>Тампонирование влагалищное лечебное</td>
+                <td class="product__value">250-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">B01.003.004.001</span>Местная анестезия</td>
+                <td class="product__value">250-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А11.01.001</span>Удаление доброкачественных новообразований кожи (невуса, бородавки, кондиломы, папилломы, атеромы) (до 5 элементов)</td>
+                <td class="product__value">1500-00р.</td>
+              </tr>
+            </tbody>
+            <tbody>
+              <tr class="product__line">
+                <td class="product__field"><span class="product__code">А11.01.001</span>Удаление доброкачественных новообразований кожи (невуса, бородавки, кондиломы, папилломы, атеромы) (от 6 до 10 элементов)</td>
+                <td class="product__value">2500-00р.</td>
+              </tr>
+            </tbody>
+          </table>
       </div>
     </main>
     <footer class="footer">

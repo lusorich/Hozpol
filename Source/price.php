@@ -57,12 +57,12 @@
             <li class="product__menu-item"><a href="#oph-anchor">Офтальмология</a></li>
             <li class="product__menu-item"><a href="#neu-anchor">Неврология</a></li>
             <li class="product__menu-item"><a href="#uro-anchor">Урология</a></li>
-            <li class="product__menu-item"><a href="#lor-anchor">Отолорингология</a></li>
+            <li class="product__menu-item"><a href="#lor-anchor">Оториноларингология</a></li>
             <li class="product__menu-item"><a href="#uzi-anchor">Кабинет УЗИ</a></li>
             <li class="product__menu-item"><a href="#der-anchor">Дерматовенерология</a></li>
             <li class="product__menu-item"><a href="#end-anchor">Эндокринология</a></li>
             <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
-            <li class="product__menu-item"><a href="../price_pages/allergology.php">Аллергология и иммунология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/allergology.php">Аллергология</a></li>
             <li class="product__menu-item"><a href="#sur-anchor">Хирургия</a></li>
             <li class="product__menu-item"><a href="#onk-anchor">Онкология</a></li>
             <li class="product__menu-item"><a href="#car-anchor">Кардиология</a></li>
