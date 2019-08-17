@@ -70,4 +70,35 @@ gulp.task("sprite", function(){
     .pipe(gulp.dest("source/img/sprite"));
 });
 
+gulp.task("phpToHtml", function(){
+  return gulp.src("source/*.php")
+    .pipe(rename(function (path) {
+      path.extname = ".html";
+    }))
+    .pipe(gulp.dest("source"));
+});
+
+gulp.task("phpToHtmlDP", function(){
+  return gulp.src("source/doctors_page/*.php")
+    .pipe(rename(function (path) {
+      path.extname = ".html";
+    }))
+    .pipe(gulp.dest("source/doctors_page"));
+});
+
+gulp.task("phpToHtmlPP", function(){
+  return gulp.src("source/price_pages/*.php")
+    .pipe(rename(function (path) {
+      path.extname = ".html";
+    }))
+    .pipe(gulp.dest("source/price_pages"));
+});
+
+gulp.task("build", gulp.series(
+  "phpToHtml",
+  "phpToHtmlDP",
+  "phpToHtmlPP",
+  "css"
+));
+
 gulp.task("start", gulp.series("css", "server"));

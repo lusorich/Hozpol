@@ -23,7 +23,7 @@
     "stylelint": "^10.0.1"
   },
   "scripts": {
-    "build": "gulp css",
+    "build": "gulp build",
     "start": "gulp start"
   },
   "dependencies": {
