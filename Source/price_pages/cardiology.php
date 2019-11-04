@@ -28,10 +28,10 @@
             <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="../doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="../news.php">Новости</a>
@@ -40,7 +40,7 @@
             <a class="main-nav__item" href="../schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="../contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -50,24 +50,25 @@
         <div class="wrapper-title wrapper-title--doctors">
           <h1 class="page__title">Кардиология</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
+        <ul class="product__menu-list">
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.php">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngolo.php">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
+          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
+          <li class="product__menu-item product__menu-item--active"><a href="#">Кардиология</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
+          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>
         </ul>
         <ul class="doctors__list">
           <li class="doctors__item">
@@ -89,6 +90,107 @@
             </article>
           </li>
         </ul>
+        <table class="product product--inner">
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.001</span>Прием (осмотр, консультация) врача-кардиолога  специалиста первичный</td>
+              <td class="product__value">750-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.002</span>Прием (осмотр, консультация) врача-кардиолога   специалиста повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.001</span>Прием (осмотр, консультация) врача-кардиолога   второй категории, первичный</td>
+              <td class="product__value">800-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.002</span>Прием (осмотр, консультация) врача-кардиолога  второй категории, повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.001</span>Прием (осмотр, консультация) врача-кардиолога    первой категории ,первичный</td>
+              <td class="product__value">850-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.002</span>Прием (осмотр, консультация) врача-кардиолога   первой категории, повторный</td>
+              <td class="product__value">425-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.001</span>Прием (осмотр, консультация) врача-кардиолога   высшей категории,, Заслуженного врача, к.м.н.,первичный</td>
+              <td class="product__value">900-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.002</span>Прием (осмотр, консультация) врача-кардиолога    высшей категории, Заслуженного врача, к.м.н.,повторный</td>
+              <td class="product__value">450-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.001</span>Прием (осмотр, консультация) врача-кардиолога   Доктора медицинских наук, первичный</td>
+              <td class="product__value">1100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.015.002</span>Прием (осмотр, консультация) врача-кардиолога   Доктора медицинских наук, повторный</td>
+              <td class="product__value">550-00р.</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="directions__desc directions__desc--menu">Кардиолог — это врач, специализирующийся на лечении и профилактике заболеваний сердечно-сосудистой системы. Также к сфере деятельности кардиолога относится реабилитация пациентов, перенесших операцию на сердце или сосудах, или переживших сердечно-сосудистые приступы по типу инфаркта.
+        </p>
+        <p class="directions__desc directions__desc--menu">Получить квалифицированную недорогую консультацию кардиолога в Уфе вы можете в нашей хозрасчетной поликлинике на Юношеской библиотеке. Приём пациентов осуществляется по графику, без выходных, в порядке живой очереди.
+        </p>
+        <h2 class="doctors__title">При каких симптомах нужна консультация кардиолога</h2>
+        <p class="directions__desc directions__desc--menu">Сердечно-сосудистые заболевания проявляются достаточно характерными симптомами:
+        </p>
+        <ul class="list list--menu">
+          <li class="list__item list__item--circle">нарушения сердечного ритма (сердце бьётся слишком часто, очень медленно или делает различимые паузы между ударами);</li>
+          <li class="list__item list__item--circle">боли, покалывания или неприятные ощущения в области сердца, иногда отдающие в левую руку, грудную клетку или челюсть;</li>
+          <li class="list__item list__item--circle">постоянная одышка, нехватка воздуха, приступы удушья (чаще при физических нагрузках, но иногда и в покое);</li>
+          <li class="list__item list__item--circle">онемение или отёки отдельных частей тела, чаще конечностей;</li>
+          <li class="list__item list__item--circle">частые беспричинные приступы головокружения, головные боли или обмороки;</li>
+          <li class="list__item list__item--circle">высокая потливость;</li>
+          <li class="list__item list__item--circle">бледность или синюшность кожных покровов;</li>
+          <li class="list__item list__item--circle">усталость даже после незначительных физических действий.</li>
+        </ul>
+        <p class="directions__desc directions__desc--menu">При любом из описанных выше симптомов рекомендуется безотлагательно получить консультацию кардиолога в нашей хозрасчетной поликлинике на Юношеской библиотеке, пройти необходимые обследования и, при выявлении сердечно-сосудистых нарушений, пролечиться согласно предписаниям врача.</p>
+        <section class="reviews">
+          <h2 class="doctors__title">Отзывы</h2>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Иванова Лариса Васильевна (56 лет)</span>
+            <blockquote class="reviews__text">
+              Обратиться к кардиологу меня заставили сильные головные боли и тахикардия. Врач внимательно меня выслушала и провела полную диагностику. Уделила достаточно времени на приеме, никуда не торопилась, сделала назначение лекарственных препаратов. Очень профессиональный и скрупулезный доктор, учитывающий все мелочи. Обязательно еще приду в поликлинику после лечения, чтобы проверить свое здоровье.
+            </blockquote>
+          </div>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Изотов Александр Павлович (46 лет)</span>
+            <blockquote class="reviews__text">
+              Меня несколько месяцев мучила одышка и слабые боли в сердце, спасался валокордином и валидолом, но однажды прихватило так сильно, что я забеспокоился. Решил проконсультироваться с опытным специалистом. Пошел на прием к Поликарповой Наталье Александровне. Замечательный врач - осмотрела меня, померила артериальное давление, дала направление на кардиограмму. Наталья Александровна выписала мне таблетки, дала много дельных рекомендаций. Сейчас чувствую себя хорошо. Спасибо
+            </blockquote>
+          </div>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Ефимова Л.О.</span>
+            <blockquote class="reviews__text">
+              Спасибо кардиологам, обращалась с сыном, ему исполнилось 18. В детской уже не принимают, во взрослой - пока запишешься и очередь дойдет, пройдет полгода. Врач назначил ЭКГ и ЭХО, все посмотрели, прочитали. Успокоили, рассказали, объяснили, что возрастное, у быстрорастущего организма такое бывает, назначили витамины, поддерживающий комплекс. Благодарна врачам за общение - все просто и понятно.
+            </blockquote>
+          </div>
+        </section>
       </div>
     </main>
     <footer class="footer">
@@ -148,6 +250,6 @@
         </div>
       </div>
     </footer>
-    <script src="../js/scriptHeader.js"></script>
+    <script src="../js/script.js"></script>
   </body>
 </html>

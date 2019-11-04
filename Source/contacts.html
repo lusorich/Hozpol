@@ -34,59 +34,18 @@
             <a class="main-nav__item" href="doctors.php">Наши специалисты</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Новости</a>
+            <a class="main-nav__item" href="news.php">Новости</a>
           </li>
           <li>
             <a class="main-nav__item" href="schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="contacts.php">Контакты</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Контакты</a>
           </li>
         </ul>
       </nav>
     </header>
     <main class="page">
-      <div class="container">
-        <section class="news">
-          <div class="wrapper-title">
-            <h2 class="news__title">Новости</h2>
-          </div>
-          <ul class="news__list">
-            <li class="news__item">
-              <a class="news__link">
-                <article class="news-card">
-                  <div class="news-card__img-wrapper">
-                    <img class="news-card__img" width="300" height="300" src="img/newYear.png" alt="Ёлка">
-                  </div>
-                  <h3 class="news-card__title">График работы на новогодние праздники</h3>
-                </article>
-              </a>
-            </li>
-            <li class="news__item">
-              <a class="news__link">
-                <article class="news-card">
-                  <div class="news-card__img-wrapper">
-                    <img class="news-card__img" width="300" height="300" src="img/AIDS.png" alt="Остановим СПИД">
-                  </div>
-                  <h3 class="news-card__title">Всемирный день борьбы со СПИДом</h3>
-                </article>
-              </a>
-            </li>
-            <li class="news__item">
-              <a class="news__link">
-                <article class="news-card">
-                  <div class="news-card__img-wrapper">
-                    <img class="news-card__img" width="300" height="300" src="img/Tablets.png" alt="Антибиотики">
-                  </div>
-                  <h3 class="news-card__title">Антибиотики - миф или правда?</h3>
-                </article>
-              </a>
-            </li>
-          </ul>
-        </section>
-      </div>
-    </main>
-    <footer class="footer">
       <div class="contacts">
         <div class="wrapper-title">
           <a id="contacts__anchor"><span class="visually-hidden">Якорь</span></a>
@@ -142,7 +101,7 @@
           </ul>
         </div>
       </div>
-    </footer>
-    <script src="js/scriptHeader.js"></script>
+    </main>
+    <script src="js/script.js"></script>
   </body>
 </html>

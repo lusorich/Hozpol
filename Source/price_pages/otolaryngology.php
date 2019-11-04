@@ -28,19 +28,19 @@
             <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="../doctors.php">Наши специалисты</a>
           </li>
           <li>
-            <a class="main-nav__item" href="">Новости</a>
+            <a class="main-nav__item" href="../news.php">Новости</a>
           </li>
           <li>
             <a class="main-nav__item" href="../schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="../contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -50,24 +50,25 @@
         <div class="wrapper-title wrapper-title--doctors">
           <h1 class="page__title">Оториноларингология</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
+        <ul class="product__menu-list">
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.php">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
+          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item product__menu-item--active"><a href="#">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
+          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
+          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>
         </ul>
         <ul class="doctors__list">
           <li class="doctors__item">
@@ -89,6 +90,203 @@
             </article>
           </li>
         </ul>
+        <table class="product product--inner">
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.001</span>Прием (осмотр, консультация) врача-оториноларинголога  специалиста первичный</td>
+              <td class="product__value">750-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.002</span>Прием (осмотр, консультация) врача-оториноларинголога   специалиста повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.001</span>Прием (осмотр, консультация) врача-оториноларинголога   второй категории, первичный</td>
+              <td class="product__value">800-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.002</span>Прием (осмотр, консультация) врача-оториноларинголога  второй категории, повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.001</span>Прием (осмотр, консультация) врача-оториноларинголога первой категории ,первичный</td>
+              <td class="product__value">850-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.002</span>Прием (осмотр, консультация) врача-оториноларинголога первой категории, повторный</td>
+              <td class="product__value">425-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.001</span>Прием (осмотр, консультация) врача-оториноларинголога высшей категории,, Заслуженного врача, к.м.н.,первичный</td>
+              <td class="product__value">900-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.002</span>Прием (осмотр, консультация) врача-оториноларинголога  высшей категории, Заслуженного врача, к.м.н.,повторный</td>
+              <td class="product__value">450-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.001</span>Прием (осмотр, консультация) врача-оториноларинголога  Доктора медицинских наук, первичный</td>
+              <td class="product__value">1100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.028.002</span>Прием (осмотр, консультация) врача-оториноларинголога Доктора медицинских наук, повторный</td>
+              <td class="product__value">550-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А16.25.007</span>Удаление ушной серы (1 ухо)</td>
+              <td class="product__value">280-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А16.25.008</span>Удаление инородного тела из слухового отверстия, носоглотки</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А16.25.012</span>Продувание слуховой трубы (1 сторона)</td>
+              <td class="product__value">250-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A11.08.010.001</span>Получение материала из верхних дыхательных путей (взятие мазка на риноцитограмму)</td>
+              <td class="product__value">100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A11.08.023</span>Инстилляция лекарственных препаратов при заболеваниях верхних дыхательных путей (вливание в гортань лекартсвенных препаратов)</td>
+              <td class="product__value">280-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A16.08.016</span>Промывание лакун небных миндалин (1 миндалина)</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A11.08.021.001</span>Промывание околоносовых пазух и носа методом вакуумного перемещения</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A11.25.005</span>Получение отделяемого из наружного слухового прохода (взятие мазка из уха на грибы)</td>
+              <td class="product__value">100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A11.08.010</span>Получение мазков со слизистой оболочки носоглотки (взятие мазка из носа)</td>
+              <td class="product__value">100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A11.08.010.002</span>Получение мазков со слизистой оболочки ротоглотки (взятие мазка из зева)</td>
+              <td class="product__value">100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A26.08.018</span>Стрептотест ( определение антигена стрептококка  в отделяемом верхних дыхательных путей)</td>
+              <td class="product__value">300-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A21.01.001</span>Массаж небных миндалин  (1 сеанс)</td>
+              <td class="product__value">150-00р.</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="directions__desc directions__desc--menu">
+          Отоларинголог (сокращённо ЛОР) — это врач, который специализируется на диагностике и лечении заболеваний ушей и органов слуха, носа и органов обоняния, горла и шеи, а также расстройств вестибулярного аппарата.
+        </p>
+        <p class="directions__desc directions__desc--menu">
+          Получить консультацию квалифицированного ЛОРа в Уфе можно в нашей клинике, предварительно ознакомившись с графиком приёма врача на сайте поликлиники.
+        </p>
+        <h2 class="doctors__title">Когда следует обратится к отоларингологу</h2>
+        <p class="directions__desc directions__desc--menu">
+          Посетить ЛОР-врача необходимо при появлении следующих симптомов:
+        </p>
+        <ul class="list list--menu">
+          <li class="list__item list__item--circle">ухудшение или полная потеря слуха или обоняния;</li>
+          <li class="list__item list__item--circle">охриплость, затруднения в произнесении слов и звуков, или полное исчезновение голоса;</li>
+          <li class="list__item list__item--circle">насморк и чихание, не связанные с простудой;</li>
+          <li class="list__item list__item--circle">кровотечения или иного рода выделения из носа;</li>
+          <li class="list__item list__item--circle">затруднение носового дыхания;</li>
+          <li class="list__item list__item--circle">болезненные или дискомфортные ощущения при глотании;</li>
+          <li class="list__item list__item--circle">боль, беспокоящие ощущения, дискомфорт в ушах, носу или горле;</li>
+          <li class="list__item list__item--circle">беспричинное головокружение, потеря равновесия, нарушение координации движения;</li>
+          <li class="list__item list__item--circle">инородные тела, застрявшие в горле, ушах или носу;</li>
+          <li class="list__item list__item--circle">увеличение шейных, затылочных, надключичных или заушных лимфоузлов;</li>
+          <li class="list__item list__item--circle">отёки щёк, верхней губы, шеи;</li>
+          <li class="list__item list__item--circle">врождённое или травматическое искривление носовой перегородки.</li>
+        </ul>
+        <p class="directions__desc directions__desc--menu">
+          Также отоларинголог может лечить ангину, вместо терапевта, аллергические риниты, вместо аллерголога, и травмы ушей, горла и носа, вместо травматолога.
+        </p>
+        <p class="directions__desc directions__desc--menu">
+          Во время первичного осмотра ЛОР назначит необходимые анализы и обследования, которые можно пройти в нашей хозрасчетной поликлинике на Юношеской библиотеке, после чего врач пропишет курс лечения.
+        </p>
+        <section class="reviews">
+          <h2 class="doctors__title">Отзывы</h2>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Галия</span>
+            <blockquote class="reviews__text">
+              Очень внимательные и вежливые врачи. К сожалению имени врача не запомнила, была на приеме с ребенком
+            </blockquote>
+          </div>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Лидия</span>
+            <blockquote class="reviews__text">
+              После перелета заложило уши, почти пропал слух. Своего ЛОРа у нас нет, поэтому пошла в хозрасчетную. Приняли без очереди и записи, назначали капли, слух вернулся. Спасибо.
+            </blockquote>
+          </div>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Мария</span>
+            <blockquote class="reviews__text">
+              Заболело после гриппа ухо, пошла по месту прописки, а там вообще нет ЛОРа, друзья порекомендовали в хозрасчетную пойти. Лечение назначили сразу, правда приходила на еще два раза, но уже дешевле, чем первый.
+            </blockquote>
+          </div>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Лида</span>
+            <blockquote class="reviews__text">
+              После перелета заложило уши и долго не проходило, а поликлинике по месту прописки нет ЛОРа, в других местах дорого. Тут и не дорого и прием в день обращения и лечение назначили. Даже без повторного обращения обошлось. Теперь всем рекомендую сюда обращаться, т.к. тут реально помогают и недорого
+            </blockquote>
+          </div>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Антон Владимирович</span>
+            <blockquote class="reviews__text">
+              Когда поднимается давление, всегда закладывает уши, обратился к лорингологу, тот прямо сказал, что это не его компетенция, хотя я уже был частных медицинских клиниках, там лор брал деньги, назначал лечение которое не помогало. А тут просто сказал — вам нужен невролог, даже денег за прием не взял, честно работают
+            </blockquote>
+          </div>
+        </section>
       </div>
     </main>
     <footer class="footer">
@@ -148,6 +346,6 @@
         </div>
       </div>
     </footer>
-    <script src="../js/scriptHeader.js"></script>
+    <script src="../js/script.js"></script>
   </body>
 </html>

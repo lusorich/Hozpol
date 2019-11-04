@@ -28,10 +28,10 @@
             <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="../doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="../news.php">Новости</a>
@@ -40,7 +40,7 @@
             <a class="main-nav__item" href="../schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="../contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -50,24 +50,25 @@
         <div class="wrapper-title wrapper-title--doctors">
           <h1 class="page__title">Неврология</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
+        <ul class="product__menu-list">
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.php">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
+          <li class="product__menu-item product__menu-item--active"><a href="#">Неврология</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
+          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
+          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>
         </ul>
         <ul class="doctors__list">
           <li class="doctors__item">
@@ -89,6 +90,133 @@
             </article>
           </li>
         </ul>
+        <table class="product product--inner">
+          <tbody>
+            <tr>
+              <th class="product__title" colspan="2">Неврология</th>
+            </tr>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.001</span>Прием (осмотр, консультация) врача-невролога  специалиста первичный</td>
+              <td class="product__value">750-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.002</span>Прием (осмотр, консультация) врача-невролога специалиста повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.001</span>Прием (осмотр, консультация) врача-невролога второй категории, первичный</td>
+              <td class="product__value">800-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.002</span>Прием (осмотр, консультация) врача-невролога  второй категории, повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.001</span>Прием (осмотр, консультация) врача-невролога    первой категории ,первичный</td>
+              <td class="product__value">850-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.002</span>Прием (осмотр, консультация) врача-невролога  первой категории, повторный</td>
+              <td class="product__value">425-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.001</span>Прием (осмотр, консультация) врача-невролога   высшей категории,, Заслуженного врача, к.м.н.,первичный</td>
+              <td class="product__value">900-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.002</span>Прием (осмотр, консультация) врача-невролога    высшей категории, Заслуженного врача, к.м.н.,повторный</td>
+              <td class="product__value">450-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.001</span>Прием (осмотр, консультация) врача-невролога   Доктора медицинских наук, первичный</td>
+              <td class="product__value">1100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.023.002</span>Прием (осмотр, консультация) врача-невролога  Доктора медицинских наук, повторный</td>
+              <td class="product__value">550-00р.</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2 class="doctors__title">Невролог в хозрасчетной поликлинике г. Уфа</h2>
+        <p class="directions__desc directions__desc--menu">
+          Такой специалист, как невролог, занимается любыми отклонениями в деятельности нервной системы человека. Такие заболевания являются сложнодиагностируемыми, они существенно снижают качество жизни и, к сожалению, появляются в последнее время даже у совсем молодых людей.
+        </p>
+        <p class="directions__desc directions__desc--menu">
+          Своевременное посещение невролога в Уфе является залогом быстрой диагностики и быстрого лечения болезни. Попасть на прием, не теряя времени, вы всегда можете в хозрасчетной поликлинике в Уфе. Здесь работает хороший взрослый невролог, все отзывы о работе которого являются положительными. В Уфе найти такого специалиста довольно сложно, так что не теряйте времени, записывайтесь к проверенному доктору!
+        </p>
+        <p class="directions__desc directions__desc--menu">
+          Жители Уфы и других больших городов часто страдают от головных болей, хронической усталости, бессонницы, раздражительности и депрессии. Причины очевидны – быстрый ритм жизни, постоянные стрессы, неправильное питание и недостаток физической активности. Однако мало кто задумывается, что все перечисленные симптомы могут являться признаками серьезных заболеваний, по поводу которых нужно обращаться к специалисту-неврологу (невропатологу).Что такое неврология?
+          Так называется отрасль медицины, занимающаяся диагностикой, лечением и профилактикой болезней нервной системы, как центральной (головной и спинной мозг), так и периферической (нервные узлы, волокна и окончания).
+        </p>
+        <h2 class="doctors__title">Самые распространенные неврологические заболевания</h2>
+        <p class="directions__desc directions__desc--menu">
+          Поводом для обращения к невропатологу в Уфе чаще всего становятся:
+        </p>
+        <ul class="list list--menu">
+          <li class="list__item list__item--circle">Инсульты.</li>
+          <li class="list__item list__item--circle">Неврозы.</li>
+          <li class="list__item list__item--circle">Радикулит.</li>
+          <li class="list__item list__item--circle">Мигрень.</li>
+          <li class="list__item list__item--circle">Тики, тремор конечностей.</li>
+          <li class="list__item list__item--circle">Болезнь Паркинсона.</li>
+          <li class="list__item list__item--circle">Детский церебральный паралич.</li>
+          <li class="list__item list__item--circle">Опухоли мозга.</li>
+          <li class="list__item list__item--circle">Эпилепсия.</li>
+          <li class="list__item list__item--circle">Рассеянный склероз.</li>
+          <li class="list__item list__item--circle">Остеохондроз.</li>
+          <li class="list__item list__item--circle">Ночной энурез.</li>
+          <li class="list__item list__item--circle">Вегето-сосудистая дистония.</li>
+          <li class="list__item list__item--circle">Опоясывающий герпес.</li>
+        </ul>
+        <h2 class="doctors__title">Как понять, что вам необходима консультация врача?</h2>
+        <p class="directions__desc directions__desc--menu">
+          К врачу-невропатологу нужно обязательно обратиться, если имеются жалобы на:
+        </p>
+        <ul class="list list--menu">
+          <li class="list__item list__item--circle">Изменение чувствительности на любом участке тела;</li>
+          <li class="list__item list__item--circle">Расстройства сна, бессонницу;</li>
+          <li class="list__item list__item--circle">Нарушение координации движений, головокружения;</li>
+          <li class="list__item list__item--circle">«Мушки» перед глазами, раздвоение изображения;</li>
+          <li class="list__item list__item--circle">Перенесенные черепно-мозговые травмы;</li>
+          <li class="list__item list__item--circle">Ухудшение памяти;</li>
+          <li class="list__item list__item--circle">Повышенную раздражительность и частые смены настроения; </li>
+          <li class="list__item list__item--circle">Шум в голове или ушах.;</li>
+          <li class="list__item list__item--circle">Непроизвольные движения головы или конечностей;</li>
+          <li class="list__item list__item--circle">Боли в различных частях тела, не связанные с получением травм;</li>
+          <li class="list__item list__item--circle">Онемение конечностей.</li>
+        </ul>
+        <p class="directions__desc directions__desc--menu">
+          При появлении подобных симптомов не стоит оттягивать визит к врачу, ведь они могут предвещать начало серьезной болезни. При отсутствии своевременного качественного лечения неврологические заболевания способны привести к тяжелым необратимым последствиям, таким как паралич, утрата интеллекта, инвалидность.
+        </p>
+        <p class="directions__desc directions__desc--menu">
+          Необходимо также периодически обращаться к неврологу для проведения профилактического осмотра – это поможет предотвратить развитие болезни или уменьшить ее тяжесть. Особенно это важно для пациентов среднего и пожилого возраста, ведь для них риск появления неврологических расстройств значительно увеличивается.
+        </p>
+        <h2 class="doctors__title">Как проходит прием у невролога</h2>
+        <p class="directions__desc directions__desc--menu">
+          При первичном обращении доктор выслушивает жалобы пациента, собирает анамнез, проводит тщательное неврологическое обследование. Затем при наличии показаний невропатолог может направить больного на консультации к другим специалистам и на обследование.
+        </p>
+        <h2 class="doctors__title">Как выбрать хорошего специалиста?</h2>
+        <p class="directions__desc directions__desc--menu">
+          Неврология относится к развитым отраслям медицины, поэтому вы легко отыщете грамотного специалиста. Расспросите друзей и знакомых, проведите поиск в интернете, изучите отзывы о работе платных неврологов. Если вы заботитесь о своем здоровье, то выбирайте хозрасчетную поликлинику, которая предоставит вам самые качественные услуги по приемлемой стоимости.
+        </p>
       </div>
     </main>
     <footer class="footer">
@@ -148,6 +276,6 @@
         </div>
       </div>
     </footer>
-    <script src="../js/scriptHeader.js"></script>
+    <script src="../js/script.js"></script>
   </body>
 </html>

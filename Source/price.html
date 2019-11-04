@@ -40,7 +40,7 @@
             <a class="main-nav__item" href="schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -52,24 +52,25 @@
         </div>
         <div class="product__wrapper">
           <ul class="product__menu-list">
-            <li class="product__menu-item"><a href="#gyn-anchor">Гинекология</a></li>
-            <li class="product__menu-item"><a href="#ter-anchor">Терапия</a></li>
-            <li class="product__menu-item"><a href="#oph-anchor">Офтальмология</a></li>
-            <li class="product__menu-item"><a href="#neu-anchor">Неврология</a></li>
-            <li class="product__menu-item"><a href="#uro-anchor">Урология</a></li>
-            <li class="product__menu-item"><a href="#lor-anchor">Оториноларингология</a></li>
-            <li class="product__menu-item"><a href="#uzi-anchor">Кабинет УЗИ</a></li>
-            <li class="product__menu-item"><a href="#der-anchor">Дерматовенерология</a></li>
-            <li class="product__menu-item"><a href="#end-anchor">Эндокринология</a></li>
-            <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+            <li class="product__menu-item"><a href="#">Все услуги</a></li>
+            <li class="product__menu-item"><a href="../price_pages/gynecology.php">Гинекология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/therapy.php">Терапия</a></li>
+            <li class="product__menu-item"><a href="../price_pages/ophtalmology.php">Офтальмология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/neurology.php">Неврология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/urology.php">Урология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/otolaryngology.php">Оториноларингология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/ultrasound.php">Кабинет УЗИ</a></li>
+            <li class="product__menu-item"><a href="../price_pages/dermatovenereology.php">Дерматовенерология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/endocrinology.php">Эндокринология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/gastroentrology.php">Гастроэнтерология</a></li>
             <li class="product__menu-item"><a href="../price_pages/allergology.php">Аллергология</a></li>
-            <li class="product__menu-item"><a href="#sur-anchor">Хирургия</a></li>
-            <li class="product__menu-item"><a href="#onk-anchor">Онкология</a></li>
-            <li class="product__menu-item"><a href="#car-anchor">Кардиология</a></li>
-            <li class="product__menu-item"><a href="#tra-anchor">Травматология</a></li>
-            <li class="product__menu-item"><a href="#med-anchor">Медицинская реабилитация</a></li>
-            <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
-            <li class="product__menu-item"><a href="#ana-anchor">Анализы, инъекции, взятия</a></li>
+            <li class="product__menu-item"><a href="../price_pages/surgery.php">Хирургия</a></li>
+            <li class="product__menu-item"><a href="../price_pages/oncology.php">Онкология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/cardiology.php">Кардиология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/traumatology.php">Травматология</a></li>
+            <li class="product__menu-item"><a href="../price_pages/masseurs.php">Медицинская реабилитация</a></li>
+            <li class="product__menu-item"><a href="../price_pages/certificates.php">Справки</a></li>
+            <li class="product__menu-item"><a href="../price_pages/kdl.php">Анализы, инъекции, взятия</a></li>
           </ul>
           <table class="product">
             <tbody id="gyn-anchor">

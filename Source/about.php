@@ -103,15 +103,6 @@
               <p class="doctor-card__desc">Начальник отдела кадров</p>
             </article>
           </li>
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/zainullin.JPG" alt="Фото врача">
-              </picture>
-              <h1 class="doctor-card__title">Зайнуллин Венер Узбекович</h1>
-              <p class="doctor-card__desc">Начальник отдела по хозяйственной части</p>
-            </article>
-          </li>
         </ul>
         <h2 class="doctors__title" id="lic-anchor">Лицензии</h2>
         <ul class="doctors__list">

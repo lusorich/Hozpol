@@ -70,34 +70,34 @@ gulp.task("sprite", function(){
     .pipe(gulp.dest("source/img/sprite"));
 });
 
-gulp.task("phpToHtml", function(){
-  return gulp.src("source/*.php")
+gulp.task("htmlToPhp", function(){
+  return gulp.src("source/*.html")
     .pipe(rename(function (path) {
-      path.extname = ".html";
+      path.extname = ".php";
     }))
     .pipe(gulp.dest("source"));
 });
 
-gulp.task("phpToHtmlDP", function(){
-  return gulp.src("source/doctors_page/*.php")
+gulp.task("htmlToPhpDP", function(){
+  return gulp.src("source/doctors_page/*.html")
     .pipe(rename(function (path) {
-      path.extname = ".html";
+      path.extname = ".php";
     }))
     .pipe(gulp.dest("source/doctors_page"));
 });
 
-gulp.task("phpToHtmlPP", function(){
-  return gulp.src("source/price_pages/*.php")
+gulp.task("htmlToPhpPP", function(){
+  return gulp.src("source/price_pages/*.html")
     .pipe(rename(function (path) {
-      path.extname = ".html";
+      path.extname = ".php";
     }))
     .pipe(gulp.dest("source/price_pages"));
 });
 
 gulp.task("build", gulp.series(
-  "phpToHtml",
-  "phpToHtmlDP",
-  "phpToHtmlPP",
+  "htmlToPhp",
+  "htmlToPhpDP",
+  "htmlToPhpPP",
   "css"
 ));
 

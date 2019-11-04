@@ -28,10 +28,10 @@
             <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="../doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="../news.php">Новости</a>
@@ -40,7 +40,7 @@
             <a class="main-nav__item" href="../schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="../contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -50,24 +50,25 @@
         <div class="wrapper-title wrapper-title--doctors">
           <h1 class="page__title">Онкология</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
+        <ul class="product__menu-list">
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.php">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
+          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item product__menu-item--active"><a href="#">Онкология</a></li>
+          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
+          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>
         </ul>
         <ul class="doctors__list">
           <li class="doctors__item">
@@ -89,6 +90,67 @@
             </article>
           </li>
         </ul>
+        <table class="product product--inner">
+          <tr class="product__line">
+            <td class="product__field"><span class="product__code">В01.027.001</span>Прием (осмотр, консультация) врача-онколога   специалиста первичный</td>
+            <td class="product__value">750-00р.</td>
+          </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.002</span>Прием (осмотр, консультация) врача-онколога   специалиста повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.001</span>Прием (осмотр, консультация) врача-онколога   второй категории, первичный</td>
+              <td class="product__value">800-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.002</span>Прием (осмотр, консультация) врача-онколога  второй категории, повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.001</span>Прием (осмотр, консультация) врача-онколога    первой категории ,первичный</td>
+              <td class="product__value">850-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.002</span>Прием (осмотр, консультация) врача-онколога  первой категории, повторный</td>
+              <td class="product__value">425-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.001</span>Прием (осмотр, консультация) врача-онколога высшей категории,, Заслуженного врача, к.м.н.,первичный</td>
+              <td class="product__value">900-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.002</span>Прием (осмотр, консультация) врача-онколога    высшей категории, Заслуженного врача, к.м.н.,повторный</td>
+              <td class="product__value">450-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.001</span>Прием (осмотр, консультация) врача-онколога  Доктора медицинских наук, первичный</td>
+              <td class="product__value">1100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.027.002</span>Прием (осмотр, консультация) врача-онколога Доктора медицинских наук, повторный</td>
+              <td class="product__value">550-00р.</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </main>
     <footer class="footer">
@@ -148,6 +210,6 @@
         </div>
       </div>
     </footer>
-    <script src="../js/scriptHeader.js"></script>
+    <script src="../js/script.js"></script>
   </body>
 </html>

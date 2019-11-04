@@ -28,10 +28,10 @@
             <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="../doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="../news.php">Новости</a>
@@ -40,7 +40,7 @@
             <a class="main-nav__item" href="../schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="../contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -50,24 +50,25 @@
         <div class="wrapper-title wrapper-title--doctors">
           <h1 class="page__title">Массажисты</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
+        <ul class="product__menu-list">
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="#">КДЛ</a></li>
+          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
+          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item product__menu-item--active"><a href="#">Медицинская реабилитация</a></li>
+          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>
         </ul>
         <ul class="doctors__list">
           <li class="doctors__item">
@@ -80,6 +81,85 @@
             </article>
           </li>
         </ul>
+        <table class="product product--inner">
+          <tr class="product__line">
+            <td class="product__field"><span class="product__code">А17.30.0025</span>Магнитотерапия (воздействие магнитными полями на аппарате "Алмаг-01")</td>
+            <td class="product__value">250-00р.</td>
+          </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A11.08.023, A17.30.032</span>Инстилляция лекарственных препаратов при заболеваниях верхних дыхательных путей ( без стоимости лекаственных препаратов)(компрессорный ингалятор-небулайзер)</td>
+              <td class="product__value">300-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A24.08.001</span>Тепловизорная диагностика заболеваний носа и придаточных пазух (на аппарате "Фея" (УТЛ-01"Елат")</td>
+              <td class="product__value">250-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A17.30.016</span>ЛОД-терапия ,1 сеанс</td>
+              <td class="product__value">1500-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.01.005</span>Массаж волосистой части головы медицинский (1 сеанс)</td>
+              <td class="product__value">300-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.01.002</span>Массаж лица  медицинский (1 сеанс)</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.01.003</span>Массаж шеи, воротниковой зоны медицинский (1 сеанс)</td>
+              <td class="product__value">240-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.01.004</span>Массаж медицинский верхней конечности, надплечья и области лопаток (1 сеанс)</td>
+              <td class="product__value">240-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.30.001</span>Массаж передней брюшной стенки медицинский(1 сеанс)</td>
+              <td class="product__value">240-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.03.002</span>Массаж спины медицинский (1 сеанс)</td>
+              <td class="product__value">480-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.01.009</span>Массаж нижней конечности медицинский (1 сеанс)</td>
+              <td class="product__value">240-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.01.001</span>Массаж общий  медицинский (1 сеанс)</td>
+              <td class="product__value">1000-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.01.007</span>Мануальная терапия при заболеваниях костной системы</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </main>
     <footer class="footer">
@@ -139,6 +219,6 @@
         </div>
       </div>
     </footer>
-    <script src="../js/scriptHeader.js"></script>
+    <script src="../js/script.js"></script>
   </body>
 </html>

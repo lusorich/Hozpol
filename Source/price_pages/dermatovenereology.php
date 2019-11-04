@@ -28,10 +28,10 @@
             <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="../doctors.php">Наши специалисты</a>
           </li>
           <li>
             <a class="main-nav__item" href="../news.php">Новости</a>
@@ -40,7 +40,7 @@
             <a class="main-nav__item" href="../schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="../contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -50,24 +50,25 @@
         <div class="wrapper-title wrapper-title--doctors ">
           <h1 class="page__title">Дерматовенероология</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
+        <ul class="product__menu-list">
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item product__menu-item--active"><a href="#">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.php">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngolo.php">Оториноларингология</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
+          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item product__menu-item--active"><a href="#">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
+          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
+          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>
         </ul>
         <ul class="doctors__list">
           <li class="doctors__item">
@@ -89,6 +90,105 @@
             </article>
           </li>
         </ul>
+        <table class="product product--inner">
+          <tbody>
+            <tr>
+              <th class="product__title" colspan="2">Дерматовенерология</th>
+            </tr>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.001</span>Прием (осмотр, консультация) врача-дерматовенеролога  специалиста первичный</td>
+              <td class="product__value">750-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.002</span>Прием (осмотр, консультация) врача-дерматовенеролога   специалиста повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.001</span>Прием (осмотр, консультация) врача-дерматовенеролога   второй категории, первичный</td>
+              <td class="product__value">800-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.002</span>Прием (осмотр, консультация) врача-дерматовенеролога   второй категории, повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.001</span>Прием (осмотр, консультация) врача-дерматовенеролога    первой категории ,первичный</td>
+              <td class="product__value">850-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.002</span>Прием (осмотр, консультация) врача-дерматовенеролога   первой категории, повторный</td>
+              <td class="product__value">425-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.001</span>Прием (осмотр, консультация) врача-дерматовенеролога   высшей категории,, Заслуженного врача, к.м.н.,первичный</td>
+              <td class="product__value">900-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.002</span>Прием (осмотр, консультация) врача-дерматовенеролога   первой категории, повторный</td>
+              <td class="product__value">450-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.001</span>Прием (осмотр, консультация) врача-дерматовенеролога   Доктора медицинских наук, первичный</td>
+              <td class="product__value">1100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.008.002</span>Прием (осмотр, консультация) врача-дерматовенеролога   Доктора медицинских наук, повторный</td>
+              <td class="product__value">550-00р.</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="directions__desc directions__desc--menu">
+          Не секрет, что Уфа славится плохими экологическими условиями, и поэтому врач-дерматолог — один из самых востребованных специалистов в этом городе. Низкое качество воды, загрязненный воздух, пониженная влажность в квартирах — все это негативно сказывается на состоянии кожи. К сожалению, многие жители города настолько привыкли к плохому состоянию своей кожи, что о посещении дерматовенеролога даже не задумываются.
+        </p>
+        <p class="directions__desc directions__desc--menu">
+          А ведь консультация дерматолога способна положить начало решению многих проблем. Может быть, вы даже не знали о том, что от них можно избавиться, и довольно легко. Самостоятельная ликвидация симптомов болезней кожного покрова не только не приносит результата, но и имеет печальные последствия. Например, распространенное в Уфе применение антибиотиков, гормональных мазей без посещения поликлиники и консультации дерматолога может привести к появлению настоящих косметических дефектов, избавиться от которых не так просто. К тому же пациент долго не может избавиться от неприятных ощущений, качество его жизни снижается. Заболевание развивается, и с ходом времени даже дерматологу-эндокринологу становится сложно его вылечить.
+        </p>
+        <h2 class="doctors__title">Когда необходимо обратиться к дерматологу</h2>
+        <p class="directions__desc directions__desc--menu">
+          Поводом для посещения платного дерматолога могут стать:
+        </p>
+        <ul class="list list--menu">
+          <li class="list__item list__item--circle">появление на коже любых образований — воспалений, раздражений, прыщиков, уплотнений, язв, волдырей. Для постановки диагноза лучше выбрать такого врача, о котором сложилось хорошее мнение, есть положительные отзывы. Именно от точности диагноза зависит то, насколько эффективным будет лечение;</li>
+          <li class="list__item list__item--circle">если на коже есть участки, отличающиеся по цвету от основного тона, пусть цены за платные услуги вас не пугают, ведь последствия запущенной болезни могут быть очень серьезными;</li>
+          <li class="list__item list__item--circle">боль, жжение и зуд — тоже веские причины.</li>
+        </ul>
+        <p class="directions__desc directions__desc--menu">
+          Среди всех платных клиник в Уфе выбирайте такую, где дерматолог примет вас быстро и поставит диагноз максимально точно. Как раз такой является наша хозрасчетная поликлиника.
+        </p>
+        <h2 class="doctors__title">Почему возникают болезни кожи</h2>
+        <p class="directions__desc directions__desc--menu">
+          Помимо указанных выше экологических факторов, есть еще целый ряд причин, которые вызывают болезни кожи:
+        </p>
+        <ul class="list list--menu">
+          <li class="list__item list__item--circle">некоторые кожные болезни передаются по наследству;</li>
+          <li class="list__item list__item--circle">гормональные нарушения часто вызывают проблемы с кожным покровом;</li>
+          <li class="list__item list__item--circle">некоторые проблемы проявляются только в определенное время года. К таким болезням относятся различные аллергии;</li>
+          <li class="list__item list__item--circle">гормональные нарушения часто вызывают проблемы с кожным покровом;</li>
+          <li class="list__item list__item--circle">попадание инфекций в организм, ослабление иммунитета тоже может спровоцировать болезни кожи;</li>
+          <li class="list__item list__item--circle">некоторые проблемы появляются с возрастом как естественные спутники старения организма;</li>
+          <li class="list__item list__item--circle">некоторые заболевания вызываются специфическими инфекциями, и лечить их должен специалист, подготовленный сразу в двух областях — дерматовенеролог.</li>
+        </ul>
+        <p class="directions__desc directions__desc--menu">
+          В Уфе такой доктор принимает в хозрасчетной поликлинике на проспекте Октября. Позаботьтесь о своем здоровье.
+        </p>
       </div>
     </main>
     <footer class="footer">
@@ -148,6 +248,6 @@
         </div>
       </div>
     </footer>
-    <script src="../js/scriptHeader.js"></script>
+    <script src="../js/script.js"></script>
   </body>
 </html>

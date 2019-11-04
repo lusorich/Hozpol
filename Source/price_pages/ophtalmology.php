@@ -28,19 +28,19 @@
             <a class="main-nav__item" href="../about.php">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="../price.php">Услуги и цены</a>
+            <a class="main-nav__item main-nav__item--active" href="#">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
+            <a class="main-nav__item" href="../doctors.php">Наши специалисты</a>
           </li>
           <li>
-            <a class="main-nav__item" href="">Новости</a>
+            <a class="main-nav__item" href="../news.php">Новости</a>
           </li>
           <li>
             <a class="main-nav__item" href="../schedule.php">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="../contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -50,24 +50,25 @@
         <div class="wrapper-title wrapper-title--doctors">
           <h1 class="page__title">Офтальмология</h1>
         </div>
-        <ul class="product__menu-list product__menu-list--doctors product__menu-list--absolute">
-          <li class="product__menu-item"><a href="../doctors.php">Все специальности</a></li>
+        <ul class="product__menu-list">
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
-          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
-          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
-          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
-          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="masseurs.php">Массажисты</a></li>
-          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
-          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
           <li class="product__menu-item product__menu-item--active"><a href="#">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="kdl.php">КДЛ</a></li>
+          <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
+          <li class="product__menu-item"><a href="urology.php">Урология</a></li>
+          <li class="product__menu-item"><a href="otolaryngology.php">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
+          <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
+          <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
+          <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
+          <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
+          <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
+          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>
         </ul>
         <ul class="doctors__list">
           <li class="doctors__item">
@@ -89,6 +90,189 @@
             </article>
           </li>
         </ul>
+        <table class="product product--inner">
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.001</span>Прием (осмотр, консультация) врача-офтальмолога специалиста первичный</td>
+              <td class="product__value">750-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.002</span>Прием (осмотр, консультация) врача-офтальмолога  специалиста повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.001</span>Прием (осмотр, консультация) врача-офтальмолога  второй категории, первичный</td>
+              <td class="product__value">800-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.002</span>Прием (осмотр, консультация) врача-офтальмолога второй категории, повторный</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.001</span>Прием (осмотр, консультация) врача-офтальмолога первой категории ,первичный</td>
+              <td class="product__value">850-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.002</span>Прием (осмотр, консультация) врача-офтальмолога первой категории, повторный</td>
+              <td class="product__value">425-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.001</span>Прием (осмотр, консультация) врача-офтальмолога высшей категории,, Заслуженного врача, к.м.н.,первичный</td>
+              <td class="product__value">900-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.002</span>Прием (осмотр, консультация) врача-офтальмолога высшей категории, Заслуженного врача, к.м.н.,повторный</td>
+              <td class="product__value">450-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.001</span>Прием (осмотр, консультация) врача-офтальмолога Доктора медицинских наук, первичный</td>
+              <td class="product__value">1100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">В01.029.002</span>Прием (осмотр, консультация) врача-офтальмолога Доктора медицинских наук, повторный</td>
+              <td class="product__value">550-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А23.26.001</span>Подбор очковой коррекции зрения</td>
+              <td class="product__value">270-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А02.26.003</span>Офтальмоскопия</td>
+              <td class="product__value">340-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А12.26.004</span>Тонометрия глаза (индикатор глазного давления)</td>
+              <td class="product__value">120-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A02.26.015</span>Тонометрия глаза (по Маклакову)</td>
+              <td class="product__value">260-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А02.26.003</span>Введение лекарственных средств в коньюнктивальную полость (расширение зрачка)</td>
+              <td class="product__value">100-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А11.26.004</span>Промывание слезоотводящих путей,1 глаз</td>
+              <td class="product__value">320-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А21.26.001</span>Массаж век медицинский</td>
+              <td class="product__value">340-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">A02.26.005</span>Периметрия</td>
+              <td class="product__value">210-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А12.26.016</span>Авторефрактометрия с узким зрачком</td>
+              <td class="product__value">250-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А03.26.001</span>Биомикроскопия глаза</td>
+              <td class="product__value">300-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А16.26.057</span>Удаление инородного тела из переднего сегмента глаза</td>
+              <td class="product__value">320-00р.</td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr class="product__line">
+              <td class="product__field"><span class="product__code">А03.26.010</span>Подбор контактной коррекции</td>
+              <td class="product__value">400-00р.</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="directions__desc directions__desc--menu">
+          Если у вас наблюдаются какие-либо заболевания глаз или нарушение остроты зрения, приглашаем вас в нашу хозрасчетную поликлинику в Уфе на прием врача-офтальмолога.
+          У нас вы сможете получить квалифицированные консультации специалистов, диагностику самыми современными и точными методами, подбор наилучших для вас способов коррекции зрения, а также лечение заболеваний глаз.
+        </p>
+        <p class="directions__desc directions__desc--menu">
+          У нас вы сможете получить квалифицированные консультации специалистов, диагностику самыми современными и точными методами, подбор наилучших для вас способов коррекции зрения, а также лечение заболеваний глаз.
+        </p>
+        <h2 class="doctors__title">Консультации окулиста (Уфа)</h2>
+        <p class="directions__desc directions__desc--menu">
+          В настоящее время развитие офтальмологии в Уфе позволяет лечить множество болезней глаз. Для того чтобы начать лечение, в первую очередь нужно попасть на прием к офтальмологу, который сможет увидеть причины и пути излечения вашего заболевания. Поэтому рекомендуется регулярно посещать врача, чтобы не пропустить начало болезни.
+        </p>
+        <p class="directions__desc directions__desc--menu">
+          Обладающий всеми необходимыми знаниями и навыками врач-офтальмолог в нашей поликлинике в Уфе внимательно выслушает вас по всем вопросам, которые связаны с состоянием ваших глаз, а наличие самого современного и великолепно отлаженного оборудования позволит вам получить всю необходимую помощь.
+        </p>
+        <h3 class="doctors__title">Диагностика болезней глаз</h3>
+        <p class="directions__desc directions__desc--menu">
+          В нашем медучреждении вы можете пройти обследование глаз с помощью следующих методов:
+        </p>
+        <ul class="list list--menu">
+          <li class="list__item list__item--circle">проектор знаков (проверка остроты зрения);</li>
+          <li class="list__item list__item--circle">автокераторефрактометрия (проверка зрения и рефракции);</li>
+          <li class="list__item list__item--circle">биомикроскопия с щелевой лампой;</li>
+          <li class="list__item list__item--circle">периметрия (выявление поля зрения);</li>
+          <li class="list__item list__item--circle">обследование глазного дна методами прямой и обратной офтальмоскопии.</li>
+        </ul>
+        <h3 class="doctors__title">Коррекция зрения</h3>
+        <p class="directions__desc directions__desc--menu">
+          Мы оказываем весь спектр услуг по коррекции зрения. У нас в Уфе вы имеет возможность пройти полную компьютерную диагностику, после чего опытный окулист подберет вам очки или линзы для коррекции любой сложности.
+        </p>
+        <h3 class="doctors__title">Лечение</h3>
+        <p class="directions__desc directions__desc--menu">
+          Мы оказываем весь спектр услуг по коррекции зрения. У нас в Уфе вы имеет возможность пройти полную компьютерную диагностику, после чего опытный окулист подберет вам очки или линзы для коррекции любой сложности.консервативными методами (массаж век, лечение воспалительных процессов, катаракты, глаукомы и т.д.);
+          с помощью хирургии (удаление инородных тел с роговицы, век либо конъюнктивы). Безупречность работы наших офтальмологов в Уфе наглядно доказывают многочисленные благодарственные отзывы от получивших необходимую помощь благодарных пациентов. Если вы испытываете какой-либо дискомфорт, связанный с глазами, посетите офтальмолога в Уфе платно, и вы будете полностью удовлетворены качеством наших услуг!
+        </p>
+        <section class="reviews">
+          <h2 class="doctors__title">Отзывы</h2>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Андреев Михаил Львович (65 лет)</span>
+            <blockquote class="reviews__text">
+              Обращался к врачу-офтальмологу Агзамову Вадиму Танзелгаяновичу по поводу начинающейся катаракты правого глаза. Доктор посоветовал, какие препараты применять, как действовать дальше, чтобы не запустить болезнь. Спасибо ему большое.
+            </blockquote>
+          </div>
+          <div class="reviews__wrapper">
+            <span class="reviews__patient">Шашкина Анна Валерьевна (49 лет)</span>
+            <blockquote class="reviews__text">
+              Житаева Хава Абдулхамидовна хороший офтальмолог. Адекватно, уважительно, без страшных прогнозов и запугиваний объяснила, что происходит с моими глазами. Посоветовала хорошие линзы. После курса лечения действительно самочувствие улучшилось. Ушла от врача с положительными эмоциями, однозначно приду еще.
+            </blockquote>
+          </div>
+        </section>
       </div>
     </main>
     <footer class="footer">
@@ -148,6 +332,6 @@
         </div>
       </div>
     </footer>
-    <script src="../js/scriptHeader.js"></script>
+    <script src="../js/script.js"></script>
   </body>
 </html>
