@@ -40,7 +40,7 @@
             <a class="main-nav__item main-nav__item--active" href="#">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="#contacts__anchor">Контакты</a>
+            <a class="main-nav__item" href="contacts.php">Контакты</a>
           </li>
         </ul>
       </nav>

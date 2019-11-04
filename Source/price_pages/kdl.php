@@ -51,6 +51,7 @@
           <h1 class="page__title">Клинико-диагностическая лаборатория</h1>
         </div>
         <ul class="product__menu-list">
+          <li class="product__menu-item"><a href="../price.php">Все услуги</a></li>
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy.php">Терапия</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
@@ -60,14 +61,14 @@
           <li class="product__menu-item"><a href="ultrasound.php">Кабинет УЗИ</a></li>
           <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
           <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="#gas-anchor">Гастроэнтерология</a></li>
+          <li class="product__menu-item"><a href="gastroentrology.php">Гастроэнтерология</a></li>
           <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
           <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
           <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
           <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
           <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
           <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
-          <li class="product__menu-item"><a href="#spr-anchor">Справки</a></li>
+          <li class="product__menu-item"><a href="certificates.php">Справки</a></li>
           <li class="product__menu-item product__menu-item--active"><a href="#">Анализы, инъекции, взятия</a></li>
         </ul>
         <ul class="doctors__list">
