@@ -51,7 +51,7 @@
           <h1 class="page__title">Терапия</h1>
         </div>
         <ul class="product__menu-list">
-          <li class="product__menu-item "><a href="../price.php">Все услуги</a></li>
+          <li class="product__menu-item"><a href="../price.php">Все услуги</a></li>
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="#">Терапия</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
@@ -62,7 +62,6 @@
           <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
           <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
           <li class="product__menu-item"><a href="gastroentrology.php">Гастроэнтерология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
           <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
           <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
           <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>

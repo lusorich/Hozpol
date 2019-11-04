@@ -63,7 +63,6 @@
           <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
           <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
           <li class="product__menu-item"><a href="gastroentrology.php">Гастроэнтерология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
           <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
           <li class="product__menu-item"><a href="oncology.php">Онкология</a></li>
           <li class="product__menu-item"><a href="cardiology.php">Кардиология</a></li>
