@@ -51,7 +51,7 @@
           <h1 class="page__title">Терапия</h1>
         </div>
         <ul class="product__menu-list">
-          <li class="product__menu-item"><a href="../price.php">Все услуги</a></li>
+          <li class="product__menu-item "><a href="../price.php">Все услуги</a></li>
           <li class="product__menu-item"><a href="gynecology.php">Гинекология</a></li>
           <li class="product__menu-item"><a href="#">Терапия</a></li>
           <li class="product__menu-item"><a href="ophtalmology.php">Офтальмология</a></li>
@@ -70,26 +70,6 @@
           <li class="product__menu-item"><a href="masseurs.php">Медицинская реабилитация</a></li>
           <li class="product__menu-item product__menu-item--active"><a href="#">Справки</a></li>
           <li class="product__menu-item"><a href="kdl.php">Анализы, инъекции, взятия</a></li>
-        </ul>
-        <ul class="doctors__list">
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/skornyakova.jpg" alt="Фото врача">
-              </picture>
-              <h1 class="doctor-card__title">Скорнякова Вера Николаевна</h1>
-              <p class="doctor-card__desc">Врач-терапевт-гастроэнтеролог (высшая категория)</p>
-            </article>
-          </li>
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/nagaeva.jpg" alt="Фото врача">
-              </picture>
-              <h1 class="doctor-card__title">Нагаева Лена Валериевна</h1>
-              <p class="doctor-card__desc">Врач-терапевт-гастроэнтеролог (высшая категория)</p>
-            </article>
-          </li>
         </ul>
         <table class="product product--inner">
           <tbody>

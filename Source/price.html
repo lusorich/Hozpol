@@ -52,7 +52,7 @@
         </div>
         <div class="product__wrapper">
           <ul class="product__menu-list">
-            <li class="product__menu-item"><a href="#">Все услуги</a></li>
+            <li class="product__menu-item product__menu-item--active"><a href="#">Все услуги</a></li>
             <li class="product__menu-item"><a href="../price_pages/gynecology.php">Гинекология</a></li>
             <li class="product__menu-item"><a href="../price_pages/therapy.php">Терапия</a></li>
             <li class="product__menu-item"><a href="../price_pages/ophtalmology.php">Офтальмология</a></li>
