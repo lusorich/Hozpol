@@ -104,7 +104,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/kortunova.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/kortunova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Кортунова Вероника Владимировна</h1>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (высшая категория)</p>
@@ -113,7 +113,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/sablina.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sablina.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Саблина Наталья Ивановна</h1>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (высшая категория)</p>
@@ -122,16 +122,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/garipova.jpg" alt="Фото врача">
-              </picture>
-              <h1 class="doctor-card__title">Гарипова Гульназ Юлаевна</h1>
-              <p class="doctor-card__desc">Врач-акушер-гинеколог (высшая категория)</p>
-            </article>
-          </li>
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/nagaeva.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Калимова Лариса Валерьевна</h1>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (специалист)</p>
@@ -181,11 +172,11 @@
           </li>
         </ul>
         <h2 class="doctors__title">Неврология</h2>
-        <ul class="doctors__list">
+         <ul class="doctors__list">
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/fatkullin.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/fatkullin.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Фаткуллин Алик Хасанович</h1>
               <p class="doctor-card__desc">Врач-невролог (заслуженный врач РБ)</p>
@@ -194,10 +185,19 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/habutdinova.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/habutdinova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Хабудтинова Зульфия Рашитовна</h1>
               <p class="doctor-card__desc">Врач-невролог (1 категория)</p>
+            </article>
+          </li>
+          <li class="doctors__item">
+            <article class="doctor-card">
+              <picture>
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
+              </picture>
+              <h1 class="doctor-card__title">Кудакаева Джамиля Тагировна</h1>
+              <p class="doctor-card__desc">Врач-невролог</p>
             </article>
           </li>
         </ul>
@@ -269,7 +269,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/ivanova.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/ivanova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Иванова Наталья Витальевна</h1>
               <p class="doctor-card__desc">Врач УЗД</p>
@@ -278,7 +278,7 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/tumeneva.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/tumeneva.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Тюменева Оксана Ринатовна</h1>
               <p class="doctor-card__desc">Врач УЗД</p>
@@ -287,9 +287,27 @@
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/darminova.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/darminova.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Дарминова Алия Нуримановна</h1>
+              <p class="doctor-card__desc">Врач УЗД</p>
+            </article>
+          </li>
+          <li class="doctors__item">
+            <article class="doctor-card">
+              <picture>
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sargsyan.jpg" alt="Фото врача">
+              </picture>
+              <h1 class="doctor-card__title">Саргсян Ани Мушеговна</h1>
+              <p class="doctor-card__desc">Врач УЗД</p>
+            </article>
+          </li>
+           <li class="doctors__item">
+            <article class="doctor-card">
+              <picture>
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sergeev.jpg" alt="Фото врача">
+              </picture>
+              <h1 class="doctor-card__title">Сергеев Александр Петрович</h1>
               <p class="doctor-card__desc">Врач УЗД</p>
             </article>
           </li>
@@ -358,14 +376,23 @@
           </li>
         </ul>
         <h2 class="doctors__title">Хирургия</h2>
-        <ul class="doctors__list">
+         <ul class="doctors__list">
           <li class="doctors__item">
             <article class="doctor-card">
               <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/sargsyan.jpg" alt="Фото врача">
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sargsyan.jpg" alt="Фото врача">
               </picture>
               <h1 class="doctor-card__title">Саргсян Ани Мушеговна</h1>
               <p class="doctor-card__desc">Врач-хирург-флеболог</p>
+            </article>
+          </li>
+          <li class="doctors__item">
+            <article class="doctor-card">
+              <picture>
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/scharipovI.jpg" alt="Фото врача">
+              </picture>
+              <h1 class="doctor-card__title">Шарипов Ильяс Маратович</h1>
+              <p class="doctor-card__desc">Врач-хирург</p>
             </article>
           </li>
         </ul>
@@ -443,7 +470,7 @@
         <div class="social contacts__social">
           <ul class="social__list">
             <li class="social__item social__item--vk">
-              <a href="">
+              <a href="https://vk.com/hozpol" target="_blank">
                 <span class="visually-hidden">Мы в вконтакте</span>
                 <svg class="social__icon social__icon--vk" width="32" height="22" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 12">
                   <path d="M17.6 12c-.3 0-.9-.1-1.5-.5-.5-.3-.9-.7-1.3-1.2-.3-.3-.9-.9-1.1-.9-.2.1-.4.7-.3 1.2 0 .1 0 .6-.3.9-.3.3-.8.4-.9.4h-1.4c-.7 0-3.2-.2-5.4-2.3C2.5 7.1.2 2.2.1 2 0 1.6-.1 1.2.2.9c.3-.3.8-.4 1-.4h3.1c.1 0 .4.1.7.3.3.2.4.5.5.6 0 0 .5 1.1 1.1 2 1 1.5 1.4 1.9 1.5 2 .1-.4.2-1.4.1-2.3 0-.4-.1-.8-.2-1-.1-.1-.3-.2-.5-.2l-.6-.5c0-.5.5-.9.9-1.1.5-.2 1.3-.3 2.3-.3h.5c.9 0 1.2.1 1.6.1 1.2.3 1.2 1.3 1.1 2.5v1.6c0 .3 0 .8.1 1 .2-.1.6-.5 1.5-1.9.6-.9 1-1.9 1.1-2.1.1-.3.4-.7 1.2-.7h3.4c.7 0 1.2.2 1.3.7.2.5.1 1.3-1.7 3.5-.3.3-.5.6-.7.9-.5.4-.9 1-.9 1.1 0 .1.5.5.9.9 1.1.9 1.9 1.7 2.2 2.3.4.6.3 1 .2 1.3-.3.7-1.2.7-1.4.8h-2.9zm-3.9-3.7c.7 0 1.2.6 1.8 1.2.4.4.7.8 1.1 1 .5.3 1 .3 1 .3h2.9c.1 0 .3-.1.4-.1 0 0 0-.1-.1-.1-.3-.5-1-1.3-2-2.1-.9-.7-1.3-1.1-1.4-1.7 0-.6.4-1.1 1.2-2.1.2-.2.4-.5.7-.8 1.1-1.4 1.4-2 1.5-2.3h-3.9c0 .4-.5 1.5-1.1 2.4-1.4 2.1-2 2.4-2.5 2.4-.1 0-.3 0-.4-.1-.7-.4-.7-1.4-.7-2.1V2.6c.1-1.3 0-1.3-.3-1.4-.3-.1-.5-.1-1.4-.1H10c-.5 0-1 0-1.4.1l.2.2c.4.5.4 1.5.4 1.7.1 1.3 0 2.9-.7 3.3-.1 0-.2.1-.4.1-.6 0-1.3-.7-2.5-2.5C5 2.9 4.5 1.8 4.5 1.8s0-.1-.1-.1-.2-.1-.2-.1h-3c.4.9 2.5 5 4.8 7.2 2 1.9 4.3 2 4.7 2h1.4s.2 0 .2-.1v-.1c0-.2 0-2 1.2-2.3h.2z"/>
@@ -451,7 +478,7 @@
               </a>
             </li>
             <li class="social__item social__item--insta">
-              <a href="">
+              <a href="https://www.instagram.com/hozpol_ufa/" target="_blank">
                 <span class="visually-hidden">Мы в инстаграмме</span>
                 <svg class="social__icon social__icon--insta"  width="26" height="26" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
                   <path class="st0" d="M11.8 1C13.6 1 15 2.4 15 4.2v7.7c0 1.7-1.4 3.1-3.1 3.1H4.2C2.4 15 1 13.6 1 11.8V4.2C1 2.4 2.4 1 4.2 1h7.6m0-1H4.2C1.9 0 0 1.9 0 4.2v7.7C0 14.1 1.9 16 4.2 16h7.7c2.3 0 4.2-1.9 4.2-4.2V4.2C16 1.9 14.1 0 11.8 0z"/>
