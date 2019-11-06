@@ -46,6 +46,31 @@
       </nav>
     </header>
     <main class="page">
+      <div class="wrapper-requisites">
+        <div>
+          <p class="directions__desc directions__desc--menu">
+            Наши реквизиты:
+          </p>
+          <ul class="list list--menu">
+            <li class="list__item">ИНН 0276132484</li>
+            <li class="list__item">ОГРН 1110280021653</li>
+            <li class="list__item">ОКПО 01953110</li>
+            <li class="list__item">ОКВЭД 86.21</li>
+            <li class="list__item">450054, г.Уфа, проспект Октября, 62/2</li>
+          </ul>
+        </div>
+        <div>
+          <p class="directions__desc directions__desc--menu">
+            Полное наименование:
+          </p>
+          <ul class="list list--menu">
+            <li class="list__item">Муниципальное унитарное предприятие Хозрасчетная поликлиника
+              городского округа город Уфа Республики Башкортостан
+              (МУПХП г. Уфы)
+            </li>
+          </ul>
+        </div>
+      </div>
       <div class="contacts">
         <div class="wrapper-title">
           <a id="contacts__anchor"><span class="visually-hidden">Якорь</span></a>
