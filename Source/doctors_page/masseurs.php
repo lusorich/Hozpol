@@ -58,7 +58,6 @@
           <li class="product__menu-item"><a href="neurology.php">Неврология</a></li>
           <li class="product__menu-item"><a href="surgery.php">Хирургия</a></li>
           <li class="product__menu-item"><a href="traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="allergology.php">Аллергология</a></li>
           <li class="product__menu-item"><a href="endocrinology.php">Эндокринология</a></li>
           <li class="product__menu-item"><a href="dermatovenereology.php">Дерматовенерология</a></li>
           <li class="product__menu-item product__menu-item--active"><a href="#">Массажисты</a></li>

@@ -58,7 +58,6 @@
           <li class="product__menu-item"><a href="doctors_page/neurology.php">Неврология</a></li>
           <li class="product__menu-item"><a href="doctors_page/surgery.php">Хирургия</a></li>
           <li class="product__menu-item"><a href="doctors_page/traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/allergology.php">Аллергология</a></li>
           <li class="product__menu-item"><a href="doctors_page/endocrinology.php">Эндокринология</a></li>
           <li class="product__menu-item"><a href="doctors_page/dermatovenereology.php">Дерматовенерология</a></li>
           <li class="product__menu-item"><a href="doctors_page/masseurs.php">Массажисты</a></li>
@@ -405,18 +404,6 @@
               </picture>
               <h1 class="doctor-card__title">Давлеткильдеев Рафаэль Равильевич</h1>
               <p class="doctor-card__desc">Врач-травматолог-ортопед (специалист)</p>
-            </article>
-          </li>
-        </ul>
-        <h2 class="doctors__title">Аллергология</h2>
-        <ul class="doctors__list">
-          <li class="doctors__item">
-            <article class="doctor-card">
-              <picture>
-                <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/schamuratova.jpg" alt="Фото врача">
-              </picture>
-              <h1 class="doctor-card__title">Шамуратова Гульнара Фидусовна</h1>
-              <p class="doctor-card__desc">Врач-аллерголог-иммунолог (1я категория)</p>
             </article>
           </li>
         </ul>
