@@ -47,7 +47,7 @@
     </header>
     <main class="page">
       <div class="wrapper-requisites">
-        <div>
+        <div class="wrapper-requisites wrapper-requisites--org">
           <p class="directions__desc directions__desc--menu">
             Наши реквизиты:
           </p>
@@ -59,7 +59,7 @@
             <li class="list__item">450054, г.Уфа, проспект Октября, 62/2</li>
           </ul>
         </div>
-        <div>
+        <div class="wrapper-requisites wrapper-requisites--full-name">
           <p class="directions__desc directions__desc--menu">
             Полное наименование:
           </p>
