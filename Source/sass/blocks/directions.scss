@@ -140,3 +140,10 @@
     margin-top: 50px;
   }
 }
+
+.directions__desc--requisite {
+  @media (min-width: $desktop-width) {
+    margin: 0;
+    padding: 0;
+  }
+}

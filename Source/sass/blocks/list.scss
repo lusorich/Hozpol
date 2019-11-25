@@ -42,3 +42,10 @@
     background-color: #f0f8ff;
   }
 }
+
+.list--requisites {
+  @media (min-width: $desktop-width) {
+    margin: 0;
+    padding: 0;
+  }
+}

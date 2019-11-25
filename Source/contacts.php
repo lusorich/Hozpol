@@ -48,10 +48,10 @@
     <main class="page">
       <div class="wrapper-requisites">
         <div class="wrapper-requisites wrapper-requisites--org">
-          <p class="directions__desc directions__desc--menu">
+          <p class="directions__desc directions__desc--menu directions__desc--requisites">
             Наши реквизиты:
           </p>
-          <ul class="list list--menu">
+          <ul class="list list--menu list--requisites">
             <li class="list__item">ИНН 0276132484</li>
             <li class="list__item">ОГРН 1110280021653</li>
             <li class="list__item">ОКПО 01953110</li>
