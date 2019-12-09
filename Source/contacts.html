@@ -47,7 +47,7 @@
     </header>
     <main class="page">
       <div class="wrapper-requisites">
-        <div class="wrapper-requisites wrapper-requisites--org">
+        <div class="wrapper-requisites-org">
           <p class="directions__desc directions__desc--menu directions__desc--requisites">
             Наши реквизиты:
           </p>
@@ -59,11 +59,11 @@
             <li class="list__item">450054, г.Уфа, проспект Октября, 62/2</li>
           </ul>
         </div>
-        <div class="wrapper-requisites wrapper-requisites--full-name">
-          <p class="directions__desc directions__desc--menu">
+        <div class="wrapper-requisites-full-name">
+          <p class="directions__desc directions__desc--menu directions__desc--requisites">
             Полное наименование:
           </p>
-          <ul class="list list--menu">
+          <ul class="list list--menu list--requisites">
             <li class="list__item">Муниципальное унитарное предприятие Хозрасчетная поликлиника
               городского округа город Уфа Республики Башкортостан
               (МУПХП г. Уфы)
