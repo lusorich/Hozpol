@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="index.php">
+          <a class="main-nav__logo" href="index">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -22,25 +22,25 @@
         </div>
         <ul class="main-nav__list">
           <li>
-            <a class="main-nav__item" href="index.php">Главная</a>
+            <a class="main-nav__item" href="index">Главная</a>
           </li>
           <li>
-            <a class="main-nav__item" href="about.php">О нас</a>
+            <a class="main-nav__item" href="about">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="price.php">Услуги и цены</a>
+            <a class="main-nav__item" href="price">Услуги и цены</a>
           </li>
           <li>
             <a class="main-nav__item main-nav__item--active" href="#">Наши специалисты</a>
           </li>
           <li>
-            <a class="main-nav__item" href="news.php">Новости</a>
+            <a class="main-nav__item" href="news">Новости</a>
           </li>
           <li>
-            <a class="main-nav__item" href="schedule.php">График работы</a>
+            <a class="main-nav__item" href="schedule">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="contacts.php">Контакты</a>
+            <a class="main-nav__item" href="contacts">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -52,21 +52,21 @@
         </div>
         <ul class="product__menu-list product__menu-list--doctors">
           <li class="product__menu-item product__menu-item--active"><a href="#">Все специальности</a></li>
-          <li class="product__menu-item"><a href="doctors_page/gynecology.php">Гинекология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/therapy.php">Терапия</a></li>
-          <li class="product__menu-item"><a href="doctors_page/cardiology.php">Кардиология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/neurology.php">Неврология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/surgery.php">Хирургия</a></li>
-          <li class="product__menu-item"><a href="doctors_page/traumatology.php">Травматология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/endocrinology.php">Эндокринология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/dermatovenereology.php">Дерматовенерология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/masseurs.php">Массажисты</a></li>
-          <li class="product__menu-item"><a href="doctors_page/ultrasound.php">Кабинет УЗИ</a></li>
-          <li class="product__menu-item"><a href="doctors_page/urology.php">Урология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/oncology.php">Онкология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/otolaryngology.php">Оториноларингология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/ophtalmology.php">Офтальмология</a></li>
-          <li class="product__menu-item"><a href="doctors_page/kdl.php">КДЛ</a></li>
+          <li class="product__menu-item"><a href="doctors_page/gynecology">Гинекология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/therapy">Терапия</a></li>
+          <li class="product__menu-item"><a href="doctors_page/cardiology">Кардиология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/neurology">Неврология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/surgery">Хирургия</a></li>
+          <li class="product__menu-item"><a href="doctors_page/traumatology">Травматология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/endocrinology">Эндокринология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/dermatovenereology">Дерматовенерология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/masseurs">Массажисты</a></li>
+          <li class="product__menu-item"><a href="doctors_page/ultrasound">Кабинет УЗИ</a></li>
+          <li class="product__menu-item"><a href="doctors_page/urology">Урология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/oncology">Онкология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/otolaryngology">Оториноларингология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/ophtalmology">Офтальмология</a></li>
+          <li class="product__menu-item"><a href="doctors_page/kdl">КДЛ</a></li>
         </ul>
         <h2 class="doctors__title">Терапия</h2>
         <ul class="doctors__list">

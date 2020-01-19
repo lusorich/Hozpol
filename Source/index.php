@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="index.php">
+          <a class="main-nav__logo" href="index">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -25,22 +25,22 @@
             <a class="main-nav__item main-nav__item--active" href="#">Главная</a>
           </li>
           <li>
-            <a class="main-nav__item" href="about.php">О нас</a>
+            <a class="main-nav__item" href="about">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="price.php">Услуги и цены</a>
+            <a class="main-nav__item" href="price">Услуги и цены</a>
           </li>
           <li>
-            <a class="main-nav__item" href="doctors.php">Наши специалисты</a>
+            <a class="main-nav__item" href="doctors">Наши специалисты</a>
           </li>
           <li>
-            <a class="main-nav__item" href="news.php">Новости</a>
+            <a class="main-nav__item" href="news">Новости</a>
           </li>
           <li>
-            <a class="main-nav__item" href="schedule.php">График работы</a>
+            <a class="main-nav__item" href="schedule">График работы</a>
           </li>
           <li>
-            <a class="main-nav__item" href="contacts.php">Контакты</a>
+            <a class="main-nav__item" href="contacts">Контакты</a>
           </li>
         </ul>
       </nav>
@@ -50,7 +50,7 @@
         <section class="landing">
           <h1 class="landing__title">Приходи в хозрасчетную поликлинику уже сегодня!</h1>
           <p class="landing__slogan">Лучшая в городе поликлиника</p>
-          <a class="link link--landing" href="schedule.php">График работы</a>
+          <a class="link link--landing" href="schedule">График работы</a>
         </section>
         <section class="stock">
           <div class="wrapper-title">
@@ -63,7 +63,7 @@
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-medical.svg" alt="Иконка">
                 </div>
-                <a class="stock-card__link" href="price.php">
+                <a class="stock-card__link" href="price">
                   <p class="stock-card__desc">Программа "Лабораторный минимум" по сниженной цене</p>
                 </a>
               </article>
@@ -74,7 +74,7 @@
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-medical-report.svg" alt="Иконка">
                 </div>
-                <a class="stock-card__link" href="price.php">
+                <a class="stock-card__link" href="price">
                   <p class="stock-card__desc">Скидка 50% на повторный прием</p>
                 </a>
               </article>
@@ -85,7 +85,7 @@
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-examination.svg" alt="Иконка">
                 </div>
-                <a class="stock-card__link" href="price.php">
+                <a class="stock-card__link" href="price">
                   <p class="stock-card__desc">Программа "Женское здоровье" по сниженной цене</p>
                 </a>
               </article>
@@ -110,7 +110,7 @@
                 </div>
                 <p class="advantage-card__desc">В хозрасчетной поликлинике работают более 20 специалистов высшей категории</p>
                 <div class="advantage-card__link-wrapper">
-                  <a class="advantage-card__link" href="doctors.php">Наши специалисты</a>
+                  <a class="advantage-card__link" href="doctors">Наши специалисты</a>
                 </div>
               </article>
             </li>
@@ -124,7 +124,7 @@
                 </div>
                 <p class="advantage-card__desc">Прием ведется как по записи, так и по живой очереди.</p>
                 <div class="advantage-card__link-wrapper">
-                  <a class="advantage-card__link" href="schedule.php">График работы</a>
+                  <a class="advantage-card__link" href="schedule">График работы</a>
                 </div>
               </article>
               <div class="advantage__img">
@@ -144,7 +144,7 @@
                 </div>
                 <p class="advantage-card__desc">У нас вы получите помощь и консультацию из различных областей медицинских услуг</p>
                 <div class="advantage-card__link-wrapper">
-                  <a class="advantage-card__link" href="about.php">О нас</a>
+                  <a class="advantage-card__link" href="about">О нас</a>
                 </div>
               </article>
             </li>
@@ -158,7 +158,7 @@
                 </div>
                 <p class="advantage-card__desc">Исследование различных анализов с точным, быстрым и информативным результатом.</p>
                 <div class="advantage-card__link-wrapper">
-                  <a class="advantage-card__link" href="price.php">Услуги и цены</a>
+                  <a class="advantage-card__link" href="price">Услуги и цены</a>
                 </div>
               </article>
               <div class="advantage__img">
@@ -174,7 +174,7 @@
           <p class="directions__desc">Сейчас в штате хозрасчетной поликлиники свыше 40 врачей. В ней работают терапевт, кардиолог, специалисты УЗИ, дерматовенеролог, невролог, хирург и прочие специалисты. У нас вы получите качественное и эффективное медицинское обслуживание за приемлиемую плату!</p>
           <ul class="directions__list">
             <li class="directions__item">
-              <a class="directions__link" href="doctors.php">
+              <a class="directions__link" href="doctors">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-blood-pressure.svg" alt="Иконка">
@@ -185,7 +185,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="price.php">
+              <a class="directions__link" href="price">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-gynecology.svg" alt="Иконка">
@@ -196,7 +196,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="price.php">
+              <a class="directions__link" href="price">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-medical-tools.svg" alt="Иконка">
@@ -207,7 +207,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="price.php">
+              <a class="directions__link" href="price">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-lungs.svg" alt="Иконка">
@@ -218,7 +218,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="price.php">
+              <a class="directions__link" href="price">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-cardiogram.svg" alt="Иконка">
@@ -229,7 +229,7 @@
               </a>
             </li>
             <li class="directions__item">
-              <a class="directions__link" href="price.php">
+              <a class="directions__link" href="price">
                 <article class="directions-card">
                   <div class="directions-card__icon-wrapper">
                     <img class="directions-card__icon" width="50" height="50" src="img/sprite/icon-ophtalmology.svg" alt="Иконка">
@@ -241,7 +241,7 @@
             </li>
           </ul>
           <div class="directions__link-more-wrapper">
-            <a class="directions__link-more" href="doctors.php">
+            <a class="directions__link-more" href="doctors">
               <p class="directions__link-more-desc">Посмотреть больше направлений</p>
             </a>
           </div>
