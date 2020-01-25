@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="../index">
+          <a class="main-nav__logo" href="../">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="../img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -22,7 +22,7 @@
         </div>
         <ul class="main-nav__list">
           <li>
-            <a class="main-nav__item" href="../index">Главная</a>
+            <a class="main-nav__item" href="../">Главная</a>
           </li>
           <li>
             <a class="main-nav__item" href="../about">О нас</a>
@@ -76,7 +76,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sargsyan.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Саргсян Ани Мушеговна</h1>
+              <h3 class="doctor-card__title">Саргсян Ани Мушеговна</h3>
               <p class="doctor-card__desc">Врач-хирург-флеболог</p>
             </article>
           </li>
@@ -85,7 +85,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/scharipovI.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Шарипов Ильяс Маратович</h1>
+              <h3 class="doctor-card__title">Шарипов Ильяс Маратович</h3>
               <p class="doctor-card__desc">Врач-хирург</p>
             </article>
           </li>
