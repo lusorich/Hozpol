@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="index">
+          <a class="main-nav__logo" href="/">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -22,7 +22,7 @@
         </div>
         <ul class="main-nav__list">
           <li>
-            <a class="main-nav__item" href="index">Главная</a>
+            <a class="main-nav__item" href="/">Главная</a>
           </li>
           <li>
             <a class="main-nav__item main-nav__item--active" href="#">О нас</a>
@@ -63,7 +63,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/yuldaschev.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Юлдашев Салават Марсович</h1>
+              <h2 class="doctor-card__title">Юлдашев Салават Марсович</h2>
               <p class="doctor-card__desc">Главный врач</p>
             </article>
           </li>
@@ -72,7 +72,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/gilyazeva.JPG" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Гилязева Фаниля Ибрагимовна</h1>
+              <h2 class="doctor-card__title">Гилязева Фаниля Ибрагимовна</h2>
               <p class="doctor-card__desc">Зам.главного врача по медицинской части</p>
             </article>
           </li>
@@ -81,7 +81,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/schilova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Шилова Юлия Имильевна</h1>
+              <h2 class="doctor-card__title">Шилова Юлия Имильевна</h2>
               <p class="doctor-card__desc">Главный бухгалтер</p>
             </article>
           </li>
@@ -90,7 +90,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/scharhmullina.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Шархмуллина Филария Наиловна</h1>
+              <h2 class="doctor-card__title">Шархмуллина Филария Наиловна</h2>
               <p class="doctor-card__desc">Главная медсестра</p>
             </article>
           </li>
@@ -99,7 +99,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/ahmetzyanova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Ахметзянова Лариса Робертовна</h1>
+              <h2 class="doctor-card__title">Ахметзянова Лариса Робертовна</h2>
               <p class="doctor-card__desc">Начальник отдела кадров</p>
             </article>
           </li>
@@ -113,7 +113,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/lic_med_1.jpeg" alt="Лицензия на мед.деятельность (приложение 2)">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Лицензия на мед.деятельность (приложение 2)</h1>
+              <h3 class="doctor-card__title">Лицензия на мед.деятельность (приложение 2)</h3>
             </article>
           </li>
           <li class="doctors__item">
@@ -123,7 +123,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/lic_med_2.jpeg" alt="Лицензия на мед.деятельность (приложение 1)">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Лицензия на мед.деятельность (приложение 1)</h1>
+              <h3 class="doctor-card__title">Лицензия на мед.деятельность (приложение 1)</h3>
             </article>
           </li>
           <li class="doctors__item">
@@ -133,7 +133,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/lic_med_title.jpeg" alt="Лицензия на мед.деятельность (титульный лист)">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Лицензия на мед.деятельность (титульный лист)</h1>
+              <h3 class="doctor-card__title">Лицензия на мед.деятельность (титульный лист)</h3>
             </article>
           </li>
           <li class="doctors__item">
@@ -143,7 +143,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/lic_2018.jpeg" alt="Лицензия 2018">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Лицензия</h1>
+              <h3 class="doctor-card__title">Лицензия</h3>
             </article>
           </li>
           <li class="doctors__item">
@@ -153,7 +153,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/lic_med_farm_1.jpg" alt="Лицензия на фарм.деятельность (1)">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Лицензия на фарм.деятельность (1)</h1>
+              <h3 class="doctor-card__title">Лицензия на фарм.деятельность (1)</h3>
             </article>
           </li>
           <li class="doctors__item">
@@ -163,7 +163,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/lic_med_farm_2.jpeg" alt="Лицензия на фарм.деятельность (2)">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Лицензия на фарм.деятельность (2)</h1>
+              <h3 class="doctor-card__title">Лицензия на фарм.деятельность (2)</h3>
             </article>
           </li>
           <li class="doctors__item">
@@ -173,7 +173,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/lic_med_farm_3.jpeg" alt="Лицензия на фарм.деятельность (3)">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Лицензия на фарм.деятельность (3)</h1>
+              <h3 class="doctor-card__title">Лицензия на фарм.деятельность (3)</h3>
             </article>
           </li>
           <li class="doctors__item">
@@ -183,7 +183,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/gov_reg_1.jpg" alt="Свидетельство (1)">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Свидетельство (1)</h1>
+              <h3 class="doctor-card__title">Свидетельство (1)</h3>
             </article>
           </li>
           <li class="doctors__item">
@@ -193,7 +193,7 @@
                   <img class="main-nav__logo-img" width="260" height="360" src="img/licenses/gov_reg_2.jpg" alt="Свидетельство (2)">
                 </picture>
               </a>
-              <h1 class="doctor-card__title">Свидетельство (2)</h1>
+              <h3 class="doctor-card__title">Свидетельство (2)</h3>
             </article>
           </li>
         </ul>

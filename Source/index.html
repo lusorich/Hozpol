@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="index">
+          <a class="main-nav__logo" href="/">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -59,7 +59,7 @@
           <ul class="stock__list">
             <li class="stock__item">
               <article class="stock-card">
-                <h1 class="visually-hidden">Скидка на "Лаборатрный минимум"</h1>
+                <h2 class="visually-hidden">Скидка на "Лаборатрный минимум"</h2>
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-medical.svg" alt="Иконка">
                 </div>
@@ -70,7 +70,7 @@
             </li>
             <li class="stock__item">
               <article class="stock-card">
-                <h1 class="visually-hidden">Скидка 50% на повторный прием</h1>
+                <h2 class="visually-hidden">Скидка 50% на повторный прием</h2>
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-medical-report.svg" alt="Иконка">
                 </div>
@@ -81,7 +81,7 @@
             </li>
             <li class="stock__item">
               <article class="stock-card">
-                <h1 class="visually-hidden">Скидка на программу "Женское здоровье"</h1>
+                <h2 class="visually-hidden">Скидка на программу "Женское здоровье"</h2>
                 <div class="stock-card__icon-wrapper">
                   <img class="stock-card__icon" width="50" height="50" src="img/sprite/icon-examination.svg" alt="Иконка">
                 </div>

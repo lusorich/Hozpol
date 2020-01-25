@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="index">
+          <a class="main-nav__logo" href="/">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -22,7 +22,7 @@
         </div>
         <ul class="main-nav__list">
           <li>
-            <a class="main-nav__item" href="index">Главная</a>
+            <a class="main-nav__item" href="/">Главная</a>
           </li>
           <li>
             <a class="main-nav__item" href="about">О нас</a>
@@ -75,7 +75,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/skornyakova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Скорнякова Вера Николаевна</h1>
+              <h3 class="doctor-card__title">Скорнякова Вера Николаевна</h3>
               <p class="doctor-card__desc">Врач-терапевт (высшая категория)</p>
             </article>
           </li>
@@ -84,7 +84,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/hamidullina.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Хамидуллина Альфия Разифовна</h1>
+              <h3 class="doctor-card__title">Хамидуллина Альфия Разифовна</h3>
               <p class="doctor-card__desc">Врач-терапевт (специалист)</p>
             </article>
           </li>
@@ -93,7 +93,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/nagaeva.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Нагаева Лена Валериевна</h1>
+              <h3 class="doctor-card__title">Нагаева Лена Валериевна</h3>
               <p class="doctor-card__desc">Врач-терапевт (высшая категория)</p>
             </article>
           </li>
@@ -105,7 +105,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/kortunova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Кортунова Вероника Владимировна</h1>
+              <h3 class="doctor-card__title">Кортунова Вероника Владимировна</h3>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (высшая категория)</p>
             </article>
           </li>
@@ -114,7 +114,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sablina.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Саблина Наталья Ивановна</h1>
+              <h3 class="doctor-card__title">Саблина Наталья Ивановна</h3>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (высшая категория)</p>
             </article>
           </li>
@@ -123,7 +123,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Калимова Лариса Валерьевна</h1>
+              <h3 class="doctor-card__title">Калимова Лариса Валерьевна</h3>
               <p class="doctor-card__desc">Врач-акушер-гинеколог (специалист)</p>
             </article>
           </li>
@@ -135,7 +135,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/petrova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Петрова Елена Александровна</h1>
+              <h3 class="doctor-card__title">Петрова Елена Александровна</h3>
               <p class="doctor-card__desc">Врач-кардиолог (специалист)</p>
             </article>
           </li>
@@ -144,7 +144,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/polikarpova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Поликарпова Наталья Александровна</h1>
+              <h3 class="doctor-card__title">Поликарпова Наталья Александровна</h3>
               <p class="doctor-card__desc">Врач-кардиолог (высшая категория)</p>
             </article>
           </li>
@@ -156,7 +156,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/agzamov.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Агзамов Вадим Танзелгаянович</h1>
+              <h3 class="doctor-card__title">Агзамов Вадим Танзелгаянович</h3>
               <p class="doctor-card__desc">Врач-офтальмолог (специалист)</p>
             </article>
           </li>
@@ -165,7 +165,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/zhitaeva.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Житаева Хава Абдулхамидовна</h1>
+              <h3 class="doctor-card__title">Житаева Хава Абдулхамидовна</h3>
               <p class="doctor-card__desc">Врач-офтальмолог (специалист)</p>
             </article>
           </li>
@@ -177,7 +177,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/fatkullin.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Фаткуллин Алик Хасанович</h1>
+              <h3 class="doctor-card__title">Фаткуллин Алик Хасанович</h3>
               <p class="doctor-card__desc">Врач-невролог (заслуженный врач РБ)</p>
             </article>
           </li>
@@ -186,7 +186,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/habutdinova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Хабудтинова Зульфия Рашитовна</h1>
+              <h3 class="doctor-card__title">Хабудтинова Зульфия Рашитовна</h3>
               <p class="doctor-card__desc">Врач-невролог (1 категория)</p>
             </article>
           </li>
@@ -195,7 +195,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Кудакаева Джамиля Тагировна</h1>
+              <h3 class="doctor-card__title">Кудакаева Джамиля Тагировна</h3>
               <p class="doctor-card__desc">Врач-невролог</p>
             </article>
           </li>
@@ -207,7 +207,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/galieva.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Галиева Аделя Файзирахмановна</h1>
+              <h3 class="doctor-card__title">Галиева Аделя Файзирахмановна</h3>
               <p class="doctor-card__desc">Врач-эндокринолог (заслуженный врач РБ)</p>
             </article>
           </li>
@@ -216,7 +216,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/ishakova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Хабудтинова Зульфия Рашитовна</h1>
+              <h3 class="doctor-card__title">Хабудтинова Зульфия Рашитовна</h3>
               <p class="doctor-card__desc">Врач-эндокринолог (специалист)</p>
             </article>
           </li>
@@ -228,7 +228,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/hairetdinov.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Хайретдинов Алексей Викторович</h1>
+              <h3 class="doctor-card__title">Хайретдинов Алексей Викторович</h3>
               <p class="doctor-card__desc">Врач-дерматовенеролог (специалист)</p>
             </article>
           </li>
@@ -237,7 +237,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/kopusova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Копусова Светлана Ивановна</h1>
+              <h3 class="doctor-card__title">Копусова Светлана Ивановна</h3>
               <p class="doctor-card__desc">Врач-дерматовенеролог (высшая категория)</p>
             </article>
           </li>
@@ -249,7 +249,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/scharipov.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Шарипов Ильгам Рафаэлович</h1>
+              <h3 class="doctor-card__title">Шарипов Ильгам Рафаэлович</h3>
               <p class="doctor-card__desc">Врач-отоларинголог (специалист)</p>
             </article>
           </li>
@@ -258,7 +258,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/nuriahmetova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Нуриахметова Анна Григорьевна</h1>
+              <h3 class="doctor-card__title">Нуриахметова Анна Григорьевна</h3>
               <p class="doctor-card__desc">Врач-отоларинголог (высшая категория)</p>
             </article>
           </li>
@@ -270,7 +270,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/ivanova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Иванова Наталья Витальевна</h1>
+              <h3 class="doctor-card__title">Иванова Наталья Витальевна</h3>
               <p class="doctor-card__desc">Врач УЗД</p>
             </article>
           </li>
@@ -279,7 +279,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/tumeneva.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Тюменева Оксана Ринатовна</h1>
+              <h3 class="doctor-card__title">Тюменева Оксана Ринатовна</h3>
               <p class="doctor-card__desc">Врач УЗД</p>
             </article>
           </li>
@@ -288,7 +288,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/darminova.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Дарминова Алия Нуримановна</h1>
+              <h3 class="doctor-card__title">Дарминова Алия Нуримановна</h3>
               <p class="doctor-card__desc">Врач УЗД</p>
             </article>
           </li>
@@ -297,7 +297,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sargsyan.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Саргсян Ани Мушеговна</h1>
+              <h3 class="doctor-card__title">Саргсян Ани Мушеговна</h3>
               <p class="doctor-card__desc">Врач УЗД</p>
             </article>
           </li>
@@ -306,7 +306,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sergeev.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Сергеев Александр Петрович</h1>
+              <h3 class="doctor-card__title">Сергеев Александр Петрович</h3>
               <p class="doctor-card__desc">Врач УЗД</p>
             </article>
           </li>
@@ -318,7 +318,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/fathullin.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Фатхуллин Азамат Салаватович</h1>
+              <h3 class="doctor-card__title">Фатхуллин Азамат Салаватович</h3>
               <p class="doctor-card__desc">Врач-онколог-маммолог (высшая категория)</p>
             </article>
           </li>
@@ -327,7 +327,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/ivanov.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Иванов Дмитрий Евгеньевич</h1>
+              <h3 class="doctor-card__title">Иванов Дмитрий Евгеньевич</h3>
               <p class="doctor-card__desc">Врач-онколог-маммолог (2 категория)</p>
             </article>
           </li>
@@ -339,7 +339,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/yuldaschev.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Юлдашев Салават Марсович</h1>
+              <h3 class="doctor-card__title">Юлдашев Салават Марсович</h3>
               <p class="doctor-card__desc">Врач-уролог (высшая категория)</p>
             </article>
           </li>
@@ -348,7 +348,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/scharipovI.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Шарипов Ильяс Маратович</h1>
+              <h3 class="doctor-card__title">Шарипов Ильяс Маратович</h3>
               <p class="doctor-card__desc">Врач-уролог (специалист)</p>
             </article>
           </li>
@@ -360,7 +360,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/gareeva.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Гареева Люция Амировна</h1>
+              <h3 class="doctor-card__title">Гареева Люция Амировна</h3>
               <p class="doctor-card__desc">Врач КДЛ</p>
             </article>
           </li>
@@ -369,7 +369,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/chigvinceva.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Чигвинцева Нурия Рамиловна</h1>
+              <h3 class="doctor-card__title">Чигвинцева Нурия Рамиловна</h3>
               <p class="doctor-card__desc">Врач КДЛ</p>
             </article>
           </li>
@@ -381,7 +381,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/sargsyan.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Саргсян Ани Мушеговна</h1>
+              <h3 class="doctor-card__title">Саргсян Ани Мушеговна</h3>
               <p class="doctor-card__desc">Врач-хирург-флеболог</p>
             </article>
           </li>
@@ -390,7 +390,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/scharipovI.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Шарипов Ильяс Маратович</h1>
+              <h3 class="doctor-card__title">Шарипов Ильяс Маратович</h3>
               <p class="doctor-card__desc">Врач-хирург</p>
             </article>
           </li>
@@ -402,7 +402,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/davletkildeev.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Давлеткильдеев Рафаэль Равильевич</h1>
+              <h3 class="doctor-card__title">Давлеткильдеев Рафаэль Равильевич</h3>
               <p class="doctor-card__desc">Врач-травматолог-ортопед (специалист)</p>
             </article>
           </li>
@@ -414,7 +414,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/mugallimov.jpg" alt="Фото врача">
               </picture>
-              <h1 class="doctor-card__title">Мугаллимов Ильгиз Альфисович</h1>
+              <h3 class="doctor-card__title">Мугаллимов Ильгиз Альфисович</h3>
               <p class="doctor-card__desc">Массажист</p>
             </article>
           </li>

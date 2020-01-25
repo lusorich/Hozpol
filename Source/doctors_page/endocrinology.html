@@ -10,7 +10,7 @@
     <header class="page-header">
       <nav class="main-nav main-nav--closed main-nav--nojs">
         <div class="main-nav__wrapper">
-          <a class="main-nav__logo" href="../index">
+          <a class="main-nav__logo" href="../">
             <picture>
               <img class="main-nav__logo-img" width="50" height="50" src="../img/icon-logo.svg" alt="Логотип хозрасчетной поликлиники">
             </picture>
@@ -22,7 +22,7 @@
         </div>
         <ul class="main-nav__list">
           <li>
-            <a class="main-nav__item" href="../index">Главная</a>
+            <a class="main-nav__item" href="../">Главная</a>
           </li>
           <li>
             <a class="main-nav__item" href="../about">О нас</a>
