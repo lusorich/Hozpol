@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Хозрасчетная поликлиника</title>
     <link rel="stylesheet" href="../css/style.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="../img/favicon.ico">
   </head>
   <body>
     <header class="page-header">
