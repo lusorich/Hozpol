@@ -6,6 +6,7 @@
     <meta name="description" content="Дерматовенероология. Запишитесь на приём в поликлинику по телефону 7 (347) 278-85-35">
     <title>Дерматовенероология - запись на приём в хозрасчетной поликлинике</title>
     <link rel="stylesheet" href="../css/style.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="../img/favicon.ico">
   </head>
   <body>
     <header class="page-header">
