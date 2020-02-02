@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Хозрасчетная поликлиника</title>
+    <meta name="description" content="Справки. Запишитесь на приём в поликлинику по телефону 7 (347) 278-85-35">
+    <title>Справки - запись на приём в хозрасчетной поликлинике</title>
     <link rel="stylesheet" href="../css/style.min.css">
   </head>
   <body>
@@ -53,7 +54,7 @@
         <ul class="product__menu-list">
           <li class="product__menu-item"><a href="../price">Все услуги</a></li>
           <li class="product__menu-item"><a href="gynecology">Гинекология</a></li>
-          <li class="product__menu-item"><a href="#">Терапия</a></li>
+          <li class="product__menu-item"><a href="therapy">Терапия</a></li>
           <li class="product__menu-item"><a href="ophtalmology">Офтальмология</a></li>
           <li class="product__menu-item"><a href="neurology">Неврология</a></li>
           <li class="product__menu-item"><a href="urology">Урология</a></li>
