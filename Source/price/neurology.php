@@ -53,7 +53,7 @@
           <h1 class="page__title">Неврология</h1>
         </div>
         <ul class="product__menu-list">
-          <li class="product__menu-item"><a href="../price">Все услуги</a></li>
+          <li class="product__menu-item"><a href="price">Все услуги</a></li>
           <li class="product__menu-item"><a href="gynecology">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy">Терапия</a></li>
           <li class="product__menu-item"><a href="ophtalmology">Офтальмология</a></li>

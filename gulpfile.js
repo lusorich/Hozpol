@@ -87,11 +87,11 @@ gulp.task("htmlToPhpDP", function(){
 });
 
 gulp.task("htmlToPhpPP", function(){
-  return gulp.src("source/price_pages/*.html")
+  return gulp.src("source/price/*.html")
     .pipe(rename(function (path) {
       path.extname = ".php";
     }))
-    .pipe(gulp.dest("source/price_pages"));
+    .pipe(gulp.dest("source/price"));
 });
 
 gulp.task("build", gulp.series(

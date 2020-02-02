@@ -54,7 +54,7 @@
         </div>
         <h2 class="doctors__title">Врачи гинекологи</h2>
         <ul class="product__menu-list">
-          <li class="product__menu-item"><a href="../price">Все услуги</a></li>
+          <li class="product__menu-item"><a href="price">Все услуги</a></li>
           <li class="product__menu-item product__menu-item--active"><a href="#">Гинекология</a></li>
           <li class="product__menu-item"><a href="therapy">Терапия</a></li>
           <li class="product__menu-item"><a href="ophtalmology">Офтальмология</a></li>
