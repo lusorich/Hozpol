@@ -29,7 +29,7 @@
             <a class="main-nav__item main-nav__item--active" href="#">О нас</a>
           </li>
           <li>
-            <a class="main-nav__item" href="price">Услуги и цены</a>
+            <a class="main-nav__item" href="price/price">Услуги и цены</a>
           </li>
           <li>
             <a class="main-nav__item" href="doctors">Наши специалисты</a>
