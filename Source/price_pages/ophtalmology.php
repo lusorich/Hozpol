@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Хозрасчетная поликлиника</title>
+    <meta name="description" content="Офтальмология. Запишитесь на приём в поликлинику по телефону 7 (347) 278-85-35">
+    <title>Офтальмология - запись на приём в хозрасчетной поликлинике</title>
     <link rel="stylesheet" href="../css/style.min.css">
   </head>
   <body>

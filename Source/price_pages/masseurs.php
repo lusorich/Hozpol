@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Хозрасчетная поликлиника</title>
+    <meta name="description" content="Медицинская реабилитация. Запишитесь на приём в поликлинику по телефону 7 (347) 278-85-35">
+    <title>Медицинская реабилитация - запись на приём в хозрасчетной поликлинике</title>
     <link rel="stylesheet" href="../css/style.min.css">
   </head>
   <body>
@@ -48,7 +49,7 @@
     <main class="page">
       <div class="container">
         <div class="wrapper-title wrapper-title--doctors">
-          <h1 class="page__title">Массажисты</h1>
+          <h1 class="page__title">Медицинская реабилитация</h1>
         </div>
         <ul class="product__menu-list">
           <li class="product__menu-item"><a href="../price">Все услуги</a></li>
