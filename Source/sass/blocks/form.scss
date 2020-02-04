@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form__title {
+  @include montsReg;
+  @include fontStyle(16px,16px);
+  color: #111111;
+}
+
+.form__input[placeholder] {
+  @include montsReg;
+  @include fontStyle(14px,14px);
+  color: #444444;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
