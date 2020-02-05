@@ -7,13 +7,57 @@
   @include montsReg;
   @include fontStyle(16px,16px);
   color: #111111;
+  margin: 30px 20px 20px;
+  padding: 0;
+  text-align: start;
+
+  @media (min-width: $tablet-width) {
+    margin: 30px 30px 20px 280px;
+    line-height: 22px;
+  }
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(18px, 20px);
+    margin-left: 25%;
+  }
 }
 
-.form__input[placeholder] {
+.form__input {
+  @media (min-width: $tablet-width) {
+    width: 300px;
+  }
+}
+
+.form__input[placeholder],
+.form__textarea[placeholder] {
   @include montsReg;
   @include fontStyle(14px,14px);
   color: #444444;
   padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.form__input-wrapper {
+  margin: 20px 0 0;
+  padding: 0 20px 0 50px;
+
+  @media (min-width: $tablet-width) {
+    padding: 0 30px;
+    margin: 20px 30px 20px 280px;
+  }
+
+  @media (min-width: $desktop-width) {
+    margin: 20px 70px 20px 27%;
+    padding: 0;
+  }
+}
+
+.form__textarea {
+  padding: 0;
+}
+
+.form__textarea-wrapper {
+  margin: 20px 0 0;
+  padding: 0 20px 0 50px;
 }
