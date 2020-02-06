@@ -100,6 +100,11 @@
 }
 
 .form__button {
+  border: 0;
+  cursor: pointer;
+  @include montsReg;
+  @include fontStyle(14px,14px);
+
   @media (min-width: $desktop-width) {
     grid-area: input5;
   }

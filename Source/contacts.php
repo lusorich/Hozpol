@@ -74,30 +74,30 @@
       </div>
       <div class="form-wrapper">
         <form class="form" action="">
-          <label for="name">
+          <label class="form__label form__label--name" for="name">
             <p class="form__title">Введите ваше имя</p>
             <div class="form__input-wrapper">
               <input class="form__input" id="name" name="name" type="text" required placeholder="Василий">
             </div>
           </label>
-          <label for="tel">
+          <label class="form__label form__label--tel" for="tel">
             <p class="form__title">Введите ваш телефон</p>
             <div class="form__input-wrapper">
               <input class="form__input" id="tel" name="tel" type="tel" pattern="[0-9]{11}" placeholder="89171231231">
             </div>
           </label>
-          <label for="email">
+          <label class="form__label form__label--email" for="email">
             <p class="form__title">Введите ваш email</p>
             <div class="form__input-wrapper">
               <input class="form__input" id="email" name="email" type="email" placeholder="name@mail.ru" required>
             </div>
           </label>
-          <p class="form__title">Введите ваше сообщение</p>
+          <p class="form__title form__title--msg">Введите ваше сообщение</p>
           <div class="form__textarea-wrapper">
             <textarea class="form__textarea" name="message" id="message" cols="30" rows="5" placeholder="Привет! Спасибо большое за качественное обслуживание!"></textarea>
           </div>
-          <div>
-            <button type="submit">Отправить сообщение</button>
+          <div class="form__button-wrapper">
+            <button class="form__button" type="submit">Отправить сообщение</button>
           </div>
         </form>
       </div>
