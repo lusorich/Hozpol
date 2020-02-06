@@ -1,6 +1,14 @@
 .form {
   display: flex;
   flex-direction: column;
+
+  @media (min-width: $desktop-width) {
+    display: grid;
+    grid-template-areas:
+        "input1 input4"
+        "input2 input4"
+        "input3 input5";
+  }
 }
 
 .form__title {
@@ -18,7 +26,7 @@
 
   @media (min-width: $desktop-width) {
     @include fontStyle(18px, 20px);
-    margin-left: 25%;
+    margin-left: 35%;
   }
 }
 
@@ -52,7 +60,7 @@
   }
 
   @media (min-width: $desktop-width) {
-    margin: 20px 70px 20px 27%;
+    margin: 20px 70px 20px 37%;
     padding: 0;
   }
 }
@@ -62,6 +70,16 @@
 
   &:hover {
     outline: 1px solid #69caf7;
+  }
+
+  @media (min-width: $tablet-width) {
+    min-width: 300px;
+  }
+
+  @media (min-width: $desktop-width) {
+    margin: 70px 0px 0px;
+    min-width: 450px;
+    min-height: 17.1vh;
   }
 }
 
@@ -75,7 +93,33 @@
   }
 
   @media (min-width: $desktop-width) {
-    margin: 20px 70px 20px 27%;
-    padding: 0;
+    margin: 0;
+    padding-left: 16px;
+    grid-area: input4;
+  }
+}
+
+.form__button {
+  @media (min-width: $desktop-width) {
+    grid-area: input5;
+  }
+}
+
+.form__label--name {
+  grid-area: input1;
+}
+
+.form__label--tel {
+  grid-area: input2;
+}
+
+.form__label--email {
+  grid-area: input3;
+}
+
+.form__title--msg {
+  @media (min-width: $desktop-width) {
+    grid-area: input4;
+    margin: 30px 0 0 0;
   }
 }
