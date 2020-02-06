@@ -26,6 +26,10 @@
   @media (min-width: $tablet-width) {
     width: 300px;
   }
+
+  &:hover {
+    outline: 1px solid #69caf7;
+  }
 }
 
 .form__input[placeholder],
@@ -55,8 +59,23 @@
 
 .form__textarea {
   padding: 0;
+
+  &:hover {
+    outline: 1px solid #69caf7;
+  }
 }
 
 .form__textarea-wrapper {
+  margin: 20px 0 0;
   padding: 0 20px 0 50px;
+
+  @media (min-width: $tablet-width) {
+    padding: 0 30px;
+    margin: 20px 30px 20px 280px;
+  }
+
+  @media (min-width: $desktop-width) {
+    margin: 20px 70px 20px 27%;
+    padding: 0;
+  }
 }
