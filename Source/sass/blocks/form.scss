@@ -35,6 +35,10 @@
     width: 300px;
   }
 
+  @media (min-width: 1300px) and (max-width: 1450px) {
+    width: 210px;
+  }
+
   &:hover {
     outline: 1px solid #69caf7;
   }
@@ -67,6 +71,7 @@
 
 .form__textarea {
   padding: 0;
+  max-width: 180px;
 
   &:hover {
     outline: 1px solid #69caf7;
@@ -84,8 +89,8 @@
 }
 
 .form__textarea-wrapper {
-  margin: 20px 0 0;
-  padding: 0 20px 0 50px;
+  margin: 0 auto;
+  padding: 0 20px 0 70px;
 
   @media (min-width: $tablet-width) {
     padding: 0 30px;
@@ -100,14 +105,51 @@
 }
 
 .form__button {
-  border: 0;
-  cursor: pointer;
   @include montsReg;
   @include fontStyle(14px,14px);
+  border: 0;
+  border-radius: 14px;
+  cursor: pointer;
+  color: #ffffff;
+  text-transform: uppercase;
+  background-color: #396b92;
+  padding: 10px 25px 10px 25px;
 
-  @media (min-width: $desktop-width) {
+  @media (min-width: $tablet-width) {
+    @include fontStyle(16px, 18px);
+    color: #ffffff;
     grid-area: input5;
   }
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(18px, 20px);
+    color: #ffffff;
+    padding: 15px 50px 15px 50px;
+    grid-area: input5;
+  }
+
+  &:hover {
+    opacity: 0.7;
+  }
+}
+
+.form__button-wrapper {
+  margin: 30px auto 20px;
+
+  @media (min-width: $tablet-width) {
+    margin: 30px 0 20px 385px;
+  }
+
+  @media (min-width: $desktop-width) {
+    margin: 0;
+    padding: 61px 0 0;
+  }
+}
+
+.form__label {
+  @media (max-width: $tablet-width - 1) {
+    margin: 0 auto;
+  } 
 }
 
 .form__label--name {
@@ -123,6 +165,11 @@
 }
 
 .form__title--msg {
+
+  @media (max-width: $tablet-width - 1) {
+    margin: 30px auto;
+  }
+
   @media (min-width: $desktop-width) {
     grid-area: input4;
     margin: 30px 0 0 0;
