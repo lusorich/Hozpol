@@ -135,6 +135,8 @@
 }
 
 .contacts__wrapper-inner {
+  width: 100%;
+  
   @media (min-width: $tablet-width) {
     width: 30%;
   }
@@ -142,4 +144,9 @@
   @media (min-width: $desktop-width) {
     width: 25%;
   }
+}
+
+.contacts__wrapper-phone {
+  display: flex;
+  flex-direction: column;
 }
