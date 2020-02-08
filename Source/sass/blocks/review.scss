@@ -1,0 +1,17 @@
+.review__title {
+@include montsSemi;
+  @include fontStyle(30px, 32px);
+  padding: 0 20px;
+  margin: 20px 0 0 0;
+  background-color: #ffffff;
+  display: inline-block;
+  position: relative;
+
+  @media (min-width: $tablet-width) {
+    margin: 50px 0 50px 0;
+  }
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(42px, 42px);
+  }
+}

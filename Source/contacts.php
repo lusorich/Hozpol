@@ -47,6 +47,7 @@
       </nav>
     </header>
     <main class="page">
+      <div class="container">
       <div class="wrapper-requisites">
         <div class="wrapper-requisites-org">
           <p class="directions__desc directions__desc--menu directions__desc--requisites">
@@ -72,34 +73,38 @@
           </ul>
         </div>
       </div>
+      <div class="wrapper-title wrapper-title--contacts-page">
+        <h1 class="review__title">Оставьте ваш отзыв</h1>
+      </div>
       <div class="form-wrapper">
         <form class="form" action="">
           <label class="form__label form__label--name" for="name">
             <p class="form__title">Введите ваше имя</p>
             <div class="form__input-wrapper">
-              <input class="form__input" id="name" name="name" type="text" required placeholder="Василий">
+              <input class="form__input" id="name" name="name" type="text" required placeholder="Василий" oninvalid="setCustomValidity('Введите имя')" oninput="setCustomValidity('')">
             </div>
           </label>
           <label class="form__label form__label--tel" for="tel">
             <p class="form__title">Введите ваш телефон</p>
             <div class="form__input-wrapper">
-              <input class="form__input" id="tel" name="tel" type="tel" pattern="[0-9]{11}" placeholder="89171231231">
+              <input class="form__input" id="tel" name="tel" type="tel" pattern="[0-9]{11}" placeholder="89171231231" oninvalid="setCustomValidity('Введите телефон в формате 89171231231')" oninput="setCustomValidity('')">
             </div>
           </label>
           <label class="form__label form__label--email" for="email">
             <p class="form__title">Введите ваш email</p>
             <div class="form__input-wrapper">
-              <input class="form__input" id="email" name="email" type="email" placeholder="name@mail.ru" required>
+              <input class="form__input" id="email" name="email" type="email" placeholder="name@mail.ru" required oninvalid="setCustomValidity('Введите эл.почту')" oninput="setCustomValidity('')">
             </div>
           </label>
           <p class="form__title form__title--msg">Введите ваше сообщение</p>
           <div class="form__textarea-wrapper">
-            <textarea class="form__textarea" name="message" id="message" cols="30" rows="5" placeholder="Привет! Спасибо большое за качественное обслуживание!"></textarea>
+            <textarea class="form__textarea" name="message" id="message" cols="30" rows="5" placeholder="Привет! Спасибо большое за качественное обслуживание!" required oninvalid="setCustomValidity('Введите сообщение')" oninput="setCustomValidity('')"></textarea>
           </div>
           <div class="form__button-wrapper">
-            <button class="form__button" type="submit">Отправить сообщение</button>
+            <button class="form__button" type="submit">Отправить</button>
           </div>
         </form>
+      </div>
       </div>
     </main>
         <footer class="footer">
