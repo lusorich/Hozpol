@@ -77,7 +77,7 @@
         <h1 class="review__title">Оставьте ваш отзыв</h1>
       </div>
       <div class="form-wrapper">
-        <form class="form" action="">
+        <form class="form" method="POST" action="./php/functions/sendUserMsg.php">
           <label class="form__label form__label--name" for="name">
             <p class="form__title">Введите ваше имя</p>
             <div class="form__input-wrapper">
@@ -124,9 +124,11 @@
           <div class="contacts__wrapper-inner">
             <div class="phone contacts__phone">
               <h3 class="phone__title">Телефоны:</h3>
-              <a href="tel:+73472000502">+7 (347) 200-05-02</a>
-              <a href="tel:+73472376924">+7 (347) 237-69-24</a>
-              <a href="tel:+73472788535">+7 (347) 278-85-35</a>
+              <div class="contacts__wrapper-phone">
+                <a href="tel:+73472000502">+7 (347) 200-05-02</a>
+                <a href="tel:+73472376924">+7 (347) 237-69-24</a>
+                <a href="tel:+73472788535">+7 (347) 278-85-35</a>
+              </div>
             </div>
             <div class="mail contacts__mail">
               <h3 class="mail__title">Почта:</h3>
