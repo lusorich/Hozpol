@@ -21,9 +21,9 @@
 
  $msg = wordwrap($msg, 70, "\r\n");
 
- $headers = 'From: webmaster@example.com' . "\r\n" .
+ $headers = 'hozpolufa.ru' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
-mail("muhp@yandex.ru", "Отзыв с сайта", "Имя:".$name.". E-mail: ".$email." Сообщение: ".$msg." Телефон: ".$tel, $headers );
+mail("muhp@yandex.ru", "Отзыв с сайта", "Имя: ".$name.". E-mail: ".$email." Сообщение: ".$msg." Телефон: ".$tel, $headers );
 header("Location: ../../contacts");
 
