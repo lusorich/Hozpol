@@ -93,8 +93,8 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
               </picture>
-              <h3 class="doctor-card__title">Калимова Лариса Валерьевна</h3>
-              <p class="doctor-card__desc">Врач-акушер-гинеколог (специалист)</p>
+              <h3 class="doctor-card__title">Гордина Елена Борисовна</h3>
+              <p class="doctor-card__desc">Врач-акушер-гинеколог</p>
             </article>
           </li>
         </ul>

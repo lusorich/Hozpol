@@ -144,6 +144,5 @@
         </div>
       </div>
     </footer>
-    <script src="js/scriptHeader.js"></script>
   </body>
 </html>

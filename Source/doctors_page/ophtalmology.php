@@ -88,6 +88,15 @@
               <p class="doctor-card__desc">Врач-офтальмолог (специалист)</p>
             </article>
           </li>
+          <li class="doctors__item">
+            <article class="doctor-card">
+              <picture>
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
+              </picture>
+              <h3 class="doctor-card__title">Александрова Людмила Николаевна</h3>
+              <p class="doctor-card__desc">Врач-офтальмолог</p>
+            </article>
+          </li>
         </ul>
       </div>
     </main>
