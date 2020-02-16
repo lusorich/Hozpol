@@ -93,7 +93,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
               </picture>
-              <h3 class="doctor-card__title">Кудакаева Джамиля Тагировна</h3>
+              <h3 class="doctor-card__title">Горская Ирина Анатольевна</h3>
               <p class="doctor-card__desc">Врач-невролог</p>
             </article>
           </li>

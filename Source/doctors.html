@@ -77,7 +77,7 @@
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/skornyakova.jpg" alt="Фото врача">
               </picture>
               <h3 class="doctor-card__title">Скорнякова Вера Николаевна</h3>
-              <p class="doctor-card__desc">Врач-терапевт (высшая категория)</p>
+              <p class="doctor-card__desc">Врач-терапевт-гастроэнтеролог (высшая категория)</p>
             </article>
           </li>
           <li class="doctors__item">
@@ -95,7 +95,7 @@
                 <img class="main-nav__logo-img" width="260" height="360" src="img/doctors/nagaeva.jpg" alt="Фото врача">
               </picture>
               <h3 class="doctor-card__title">Нагаева Лена Валериевна</h3>
-              <p class="doctor-card__desc">Врач-терапевт (высшая категория)</p>
+              <p class="doctor-card__desc">Врач-терапевт-гастроэнтеролог (высшая категория)</p>
             </article>
           </li>
         </ul>
@@ -124,8 +124,8 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
               </picture>
-              <h3 class="doctor-card__title">Калимова Лариса Валерьевна</h3>
-              <p class="doctor-card__desc">Врач-акушер-гинеколог (специалист)</p>
+              <h3 class="doctor-card__title">Гордина Елена Борисовна</h3>
+              <p class="doctor-card__desc">Врач-акушер-гинеколог</p>
             </article>
           </li>
         </ul>
@@ -170,6 +170,15 @@
               <p class="doctor-card__desc">Врач-офтальмолог (специалист)</p>
             </article>
           </li>
+          <li class="doctors__item">
+            <article class="doctor-card">
+              <picture>
+                <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
+              </picture>
+              <h3 class="doctor-card__title">Александрова Людмила Николаевна</h3>
+              <p class="doctor-card__desc">Врач-офтальмолог</p>
+            </article>
+          </li>
         </ul>
         <h2 class="doctors__title">Неврология</h2>
          <ul class="doctors__list">
@@ -196,7 +205,7 @@
               <picture>
                 <img class="main-nav__logo-img" width="260" height="360" src="../img/doctors/doctor.png" alt="Фото врача">
               </picture>
-              <h3 class="doctor-card__title">Кудакаева Джамиля Тагировна</h3>
+              <h3 class="doctor-card__title">Горская Ирина Анатольевна</h3>
               <p class="doctor-card__desc">Врач-невролог</p>
             </article>
           </li>

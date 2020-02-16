@@ -247,6 +247,9 @@
           <h2 class="doctors__title" id="nor-anchor">Нормативно-правовые акты</h2>
           <div class="regulations__wrapper">
             <div class="regulations__link-wrapper">
+              <a class="regulations__link" href="docs/post.pdf" download="" title="Скачать">Постановление Правительства Республики Башкортостан от 25 октября 2019 года № 651</a>
+            </div>
+            <div class="regulations__link-wrapper">
               <a class="regulations__link" href="docs/323FZ.docx" download="" title="Скачать">Федеральный закон от 21.11.2011 N 323-ФЗ Об основах охраны здоровья граждан в Российской Федерации</a>
             </div>
             <div class="regulations__link-wrapper">
