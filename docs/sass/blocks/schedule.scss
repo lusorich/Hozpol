@@ -1,0 +1,26 @@
+.schedule__title {
+  @include montsSemi;
+  @include fontStyle(20px, 20px);
+  margin: 20px 0;
+}
+
+.schedule__desc {
+  @include montsReg;
+  @include fontStyle(16px, 16px);
+  margin: 20px 0;
+}
+
+.schedule__doc {
+  display: flex;
+  margin: 50px auto auto;
+
+  @media (min-width: $tablet-width) {
+    width: 700px;
+    height: 800px;
+  }
+
+  @media (min-width: $desktop-width) {
+    width: 1200px;
+    height: 900px;
+  }
+}

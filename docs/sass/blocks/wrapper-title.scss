@@ -1,0 +1,13 @@
+.wrapper-title {
+  @media (min-width: $tablet-width) {
+    text-align: center;
+  }
+}
+
+.wrapper-title--doctors {
+  margin-bottom: 50px;
+}
+
+.wrapper-title--contacts-page {
+  text-align: center;
+}

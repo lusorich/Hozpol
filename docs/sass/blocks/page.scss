@@ -1,0 +1,49 @@
+.page {
+  overflow: hidden;
+}
+
+.page__title {
+  @include montsSemi;
+  @include fontStyle(30px, 32px);
+  padding: 0 20px;
+  margin: 20px 0 0;
+  display: inline-block;
+  position: relative;
+  background-color: #ffffff;
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 100vw;
+    left: 0;
+    height: 3px;
+    margin-top: 2px;
+    background: #69caf7;
+    z-index: -1;
+  }
+
+  @media (min-width: $tablet-width) {
+    margin-top: 50px;
+    padding: 0 30px;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 50%;
+      right: 0;
+      width: 100vw;
+      left: auto;
+      height: 3px;
+      margin-top: 2px;
+      background: #69caf7;
+      z-index: -1;
+    }
+  }
+
+  @media (min-width: $desktop-width) {
+    @include fontStyle(42px, 42px);
+    padding: 0 70px;
+  }
+}

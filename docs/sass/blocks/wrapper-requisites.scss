@@ -1,0 +1,44 @@
+.wrapper-requisites {
+	@media(min-width: $desktop-width) {
+		display: flex;
+    padding-top: 100px;
+	}
+}
+
+.wrapper-requisites-org {
+	@media(min-width: $desktop-width) {
+		display: flex;
+		width: 50%;
+    flex-direction: column;
+    align-items: end;
+    margin-left: 25%;
+    box-sizing: border-box;
+	}
+	@media(min-width: 2000px) {
+		display: flex;
+		width: 50%;
+    flex-direction: column;
+    align-items: end;
+    margin-left: 30%;
+    box-sizing: border-box;
+	}
+}
+
+.wrapper-requisites-full-name {
+	@media(min-width: $desktop-width) {
+		display: flex;
+		width: 50%;
+    flex-direction: column;
+    align-items: end;
+    margin-right: 25%;
+    box-sizing: border-box;
+	}
+	@media(min-width: 2000px) {
+		display: flex;
+		width: 50%;
+    flex-direction: column;
+    align-items: end;
+    margin-right: 20%;
+    box-sizing: border-box;
+	}
+}
